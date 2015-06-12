@@ -1,0 +1,5 @@
+bin
+*__pycache__*
+panzer/template
+template_src/include
+build.log

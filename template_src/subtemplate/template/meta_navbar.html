@@ -1,0 +1,44 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">$brand$</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+      $for(navbar)$
+
+        $if(navbar.side)$
+          <ul class="nav navbar-nav navbar-$navbar.side$">
+        $else$
+          <ul class="nav navbar-nav navbar-left">
+        $endif$
+
+        $if(navbar.dropdown)$
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">$navbar.dropdown.display$<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              $for(navbar.dropdown.item)$
+                <li><a href="$navbar.dropdown.item.link$">$navbar.dropdown.item.display$</a></li>
+              $endfor$
+            </ul>
+          </li>
+        $else$
+          <li $$if(navbar.$navbar.name$)$$ class="active" $$endif$$><a href="$navbar.link$">$navbar.display$</a></li>
+        $endif$
+
+      </ul>
+      $endfor$
+
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
