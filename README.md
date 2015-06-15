@@ -4,7 +4,7 @@ All the sources for my website: [jgrizou.com](jgrizou.com)
 
 ### License
 
-You are allowed to reuse the code that builds the website ([GPL3 license](http://www.gnu.org/licenses/gpl.html)) but not the content of the website itself which is under the ```./src``` folder.
+You are allowed to reuse the code that builds the website under [![GPL V3](https://www.gnu.org/graphics/gplv3-88x31.png)](http://www.gnu.org/licenses/gpl.html) conditions but not the content of the website itself which is under the ```./src``` folder.
 
 ### About
 
