@@ -76,6 +76,10 @@ def bibinfo_to_md(bibinfo, bibfile, stylefile):
     bibliography.register(citation)
 
     md = str(bibliography.bibliography()[0])
+
+    if 'info' in bibinfo:
+        md += ' ' + bibinfo['info'] + '.'
+
     if 'award' in bibinfo:
         md += ' **' + bibinfo['award'] + '**'
 
@@ -136,10 +140,6 @@ def process_all_pubs(config, source_file, target_file):
         biblinkfile.write(content)
         bibinfo['link'] = [('bib', biblinkfile.abspathfromref)]
 
-        # fixing some type issue for thesis
-        if 'thesis' in bibinfo['type']:
-            bibinfo['type'] = 'thesis'
-
         #
         linkfile = os.path.join(folder, 'link.cfg')
         if os.path.exists(linkfile):
@@ -166,6 +166,10 @@ def process_all_pubs(config, source_file, target_file):
         bibinfo['link'].insert(0, ('abstract', config['WEB']['baseUrl'] + paper_page_target_file.abspathfromref))
 
         bibinfo['md'] = bibinfo_to_md(bibinfo, bibfile, stylefile)
+
+        # fixing some type issue for thesis
+        if 'thesis' in bibinfo['type']:
+            bibinfo['type'] = 'thesis'
 
         pubs.append(bibinfo)
 
