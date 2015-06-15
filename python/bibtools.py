@@ -46,10 +46,10 @@ def link_to_md(link):
     if link[0] in ['abstract']:
         html_link += '"{}">'.format(link[1])
     else:
-        if ext in ['bib', 'txt', 'html']:
-            html_link += '"{}" target="_blank">'.format(link[1])
-        else:
+        if ext in ['pdf']:
             html_link += '"https://docs.google.com/viewer?url={}"  target="_blank">'.format(link[1])
+        else:
+            html_link += '"{}" target="_blank">'.format(link[1])
 
     html_link += '[{}]</a>'.format(link[0])
 
@@ -76,6 +76,9 @@ def bibinfo_to_md(bibinfo, bibfile, stylefile):
     bibliography.register(citation)
 
     md = str(bibliography.bibliography()[0])
+    if 'award' in bibinfo:
+        md += ' **' + bibinfo['award'] + '**'
+
     if 'link' in bibinfo:
         md += '<p>'
         md += all_links_to_md(bibinfo['link'])

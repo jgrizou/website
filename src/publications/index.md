@@ -32,18 +32,17 @@ $( document ).ready( function () {
         $("#importselected").show();
         $("#importpertype").hide();
         $("#importperyear").hide();
-    }).trigger( "click" );
+    });
     $("#buttonpertype").click(function(){
       $("#importselected").hide();
       $("#importpertype").show();
       $("#importperyear").hide();
-    })
+    }).trigger( "click" );
     $("#buttonperyear").click(function(){
       $("#importselected").hide();
       $("#importpertype").hide();
       $("#importperyear").show();
     });
-
 
     $("#buttonscholar").click(function(){
         window.open("http://scholar.google.fr/citations?user=Fej-hGQAAAAJ&hl=en");

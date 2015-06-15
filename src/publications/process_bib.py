@@ -1,8 +1,8 @@
 
 
-selected_publication_id = [
-    'grizou2014calibration',
-    'Cesar2013']
+selected_publication_id = []
+    # 'grizou2014calibration',
+    # 'Cesar2013']
 
 
 def main(config, source_file, target_file):
