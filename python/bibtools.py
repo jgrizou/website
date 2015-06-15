@@ -13,8 +13,8 @@ import citeproc
 import bibtexparser
 
 
-ENTRYTYPE = ['article', 'conference', 'inproceedings']
-ENTRYTITLE = ['Journals', 'Conferences', 'Workshops']
+ENTRYTYPE = ['thesis', 'article', 'conference', 'inproceedings']
+ENTRYTITLE = ['Thesis', 'Journals', 'Conferences', 'Workshops']
 
 
 def homogeneize_bibfile(bibfile):
@@ -136,6 +136,10 @@ def process_all_pubs(config, source_file, target_file):
         biblinkfile.write(content)
         bibinfo['link'] = [('bib', biblinkfile.abspathfromref)]
 
+        # fixing some type issue for thesis
+        if 'thesis' in bibinfo['type']:
+            bibinfo['type'] = 'thesis'
+
         #
         linkfile = os.path.join(folder, 'link.cfg')
         if os.path.exists(linkfile):
@@ -180,7 +184,7 @@ def sort_pubs_per_type(pubs):
         for i, entrytype in enumerate(ENTRYTYPE):
             if item['type'] == entrytype:
                 return i
-        logger.error('Entry {} is not supported'.format(entrytype))
+        logger.error('Entry {} is not supported'.format(item['type']))
     pubs_sorted = sorted(pubs, key=bibentrytypekey)
     return pubs_sorted
 
