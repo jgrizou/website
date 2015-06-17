@@ -39,7 +39,7 @@ def main(config, source_file, target_file):
             stripped_html += unindented + '\n'
 
     #
-    content = '---\nstyle: Empty\n---'
+    content = '---\nstyle: Empty\nnavbar:\n  projects: true\n---'
     content += '\n\n'
     content += stripped_html
 

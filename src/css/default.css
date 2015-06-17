@@ -1,6 +1,13 @@
 /* shifht due to navbar */
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+}
+
 body {
-  padding-top: 70px;
+  padding-top: 80px;
 }
 
 .project .thumbnail img {
@@ -15,3 +22,53 @@ body {
 .project .thumbnail .caption {
   padding-top: 0;
 }
+
+.panel-primary .panel-body {
+  background: #CEE3F6; /* light blue */
+}
+
+.panel-heading a:hover {
+    color: inherit;
+}
+
+.jinja-video {
+  padding: 10px 0;
+}
+
+/* Footer
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+   /*Margin bottom by footer height */
+  margin-bottom: 150px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 70px;
+  border-top: 1px solid #e5e5e5;
+  background-color: #f5f5f5;
+}
+
+.footer p {
+  margin-bottom: 2;
+  color: #777;
+}
+
+
+/*.footer-links {
+  margin: 10px 0;
+}
+.footer-links li {
+  display: inline;
+  padding: 0 2px;
+}
+.footer-links li:first-child {
+  padding-left: 0;
+}*/

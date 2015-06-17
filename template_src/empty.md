@@ -11,4 +11,6 @@ styledef:
         include-before-body:
           - "`include/navbar.html`"
           - "`include/empty_body.html`"
+        include-after-body:
+          - "`include/footer.html`"
 ---
