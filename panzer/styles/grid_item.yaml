@@ -1,0 +1,5 @@
+GridItem:
+  html:
+    template: grid_item.html
+    metadata:
+      button_text: "View Project"

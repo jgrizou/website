@@ -1,4 +1,4 @@
-/* shifht due to navbar */
+/* navbar */
 .navbar-brand,
 .navbar-nav li a {
     line-height: 60px;
@@ -10,19 +10,9 @@ body {
   padding-top: 80px;
 }
 
-.project .thumbnail img {
-    width: 250px;
-    height: 250px;
-}
 
-.project .thumbnail .thumbnail {
-  border: 0;
-}
 
-.project .thumbnail .caption {
-  padding-top: 0;
-}
-
+/* Pannel */
 .panel-primary .panel-body {
   background: #CEE3F6; /* light blue */
 }
@@ -31,12 +21,31 @@ body {
     color: inherit;
 }
 
-.jinja-video {
-  padding: 10px 0;
+/* Isotope */
+.filters-button-group {
+  padding-bottom: 20px
 }
 
-/* Footer
--------------------------------------------------- */
+.grid-item {
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.grid-item--width2 {
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.thumbnail .thumbnail {
+  border: 0;
+  padding-bottom: 0;
+}
+
+.thumbnail .caption {
+  padding-top: 0;
+}
+
+/* Footer */
 html {
   position: relative;
   min-height: 100%;

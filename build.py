@@ -132,7 +132,7 @@ def build_site():
     default_rule = {'make_target_file': ruletools.duplicate_at_target,
                     'compile': ruletools.copy_to_target}
 
-    ignore_patterns = ['*.DS_Store', '*__pycache__*']
+    ignore_patterns = ['*.DS_Store', '*__pycache__*', 'thumbnail.md']
 
     jinja_filter_path = os.path.join(config['PATH']['jinja'], 'filter')
     panzer_args = ['---panzer-support', config['PATH']['panzer']]

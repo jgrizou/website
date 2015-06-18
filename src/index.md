@@ -37,7 +37,6 @@ I am involved in the **[Poppy project](https://www.poppy-project.org/)**. I am m
   </div>
 </div>
 
-{{ "https://www.youtube.com/embed/zpOULjyy-n8?rel=0" | video }}
 
 </div>
 
