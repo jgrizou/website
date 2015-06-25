@@ -8,7 +8,11 @@ style: Default
 
 The challenge we addressed in this work is how a system/agent/robot learning a new task can be instructed by a human using its own preferred teaching signals and where the mapping between these signals and their meanings is unknown to the robot before hand. In such cases, the system/agent/robot needs to estimate simultaneously what the task is and the mapping from signals received from the user to their meanings. We assume the number of possible meanings is known in advance.
 
-To quickly understand the principles and specific challenges related to this work, you can watch the following videos. I should however warn you, they are only slides and me talking, watch at your own risk! You should also have a look at the related publication at the end of the page. Code is available on github: [https://github.com/jgrizou/lfui](https://github.com/jgrizou/lfui)
+To quickly understand the principles and specific challenges related to this work, you can watch the following videos. I should however warn you, they are only slides and me talking, watch at your own risk! You should also have a look at the related publication at the end of the page.
+
+<a class="btn btn-block btn-github btn-lg center" href="https://github.com/jgrizou/lfui" target="_blank">
+<i class="fa fa-github"></i> Code is available on GitHub
+</a>
 
 ### Part 1: Introduction
 

@@ -10,6 +10,11 @@ body {
   padding-top: 80px;
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /* Pannel */
 .panel-primary .panel-body {
   background: #CEE3F6; /* light blue */
@@ -53,8 +58,17 @@ body {
   margin-bottom: 5px;
 }
 
+.media-item--width2 {
+  width: 450px;
+  margin-bottom: 5px;
+}
+
 .media-item img {
   width: 225px;
+}
+
+.media-item--width2 img {
+  width: 450px;
 }
 
 /* Footer */

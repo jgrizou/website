@@ -1,11 +1,11 @@
 ---
 style: GridItem
-additional_class: "3d"
+additional_class: "robot"
 link: {{ "" | relative_path | web_path }}
 image_src: {{ "thumbnail.png" | relative_path | web_path }}
 ---
 
 
-### 3D Printer
+### 2 Wheel Drive Robot
 
-I built a 3D printer back in 2011.
+I developed a small 2 wheel drive robot.

@@ -2,7 +2,8 @@
 key_filter_list = [
     ('All', '*'),
     ('Research', '.research'),
-    ('Robots', '.robot')]
+    ('Robots', '.robot'),
+    ('3D', '.3d')]
 
 
 def main(config, source_file, target_file):

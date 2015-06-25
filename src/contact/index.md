@@ -4,8 +4,6 @@ navbar:
   contact: true
 ---
 
-
-
 <div class="container">
 <div class="row">
 <div class="col-xs-0 col-sm-3 col-md-4"> </div>
