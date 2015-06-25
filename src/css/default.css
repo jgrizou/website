@@ -47,6 +47,16 @@ body {
   padding-top: 0;
 }
 
+
+.media-item {
+  width: 225px;
+  margin-bottom: 5px;
+}
+
+.media-item img {
+  width: 225px;
+}
+
 /* Footer */
 html {
   position: relative;
