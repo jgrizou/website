@@ -17,6 +17,10 @@ body {
   background: #CEE3F6; /* light blue */
 }
 
+.panel-success .panel-body {
+  background: #E6F8E0; /* light green */
+}
+
 .panel-heading a:hover {
     color: inherit;
 }

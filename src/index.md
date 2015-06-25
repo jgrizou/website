@@ -20,6 +20,21 @@ I am currently moving towards the field of self-organization and complexity.
 
 ### Highlights
 
+<div class="panel panel-success">
+  <div class="panel-heading">
+  <a class="panel-title btn-block" href="https://github.com/flowersteam/self_calibration_BCI_plosOne_2015"><h3 class="panel-title">Self-Calibrated Brain Machine Interface</h3> </a>
+  </div>
+  <div class="panel-body panel-body">
+
+Our paper work on self-calibrated brain-machine interface control using error-related potentials has been accepted for publication in PlosOne. The code and the paper source are available online: [https://github.com/flowersteam/self_calibration_BCI_plosOne_2015](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015)
+
+This work is a direct application of my thesis work on learning from unlabeled instructions. See [my thesis defense]({{"/projects/thesis_defense/" | web_path}}).
+
+[[Reference]]({{"/publications/iturrate2015exploiting" | web_path}})
+
+  </div>
+</div>
+
 <div class="panel panel-primary">
   <div class="panel-heading">
   <a class="panel-title btn-block" href="https://www.poppy-project.org/"><h3 class="panel-title">Poppy project</h3> </a>
@@ -36,7 +51,6 @@ I am involved in the **[Poppy project](https://www.poppy-project.org/)**. I am m
 
   </div>
 </div>
-
 
 </div>
 

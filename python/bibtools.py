@@ -163,7 +163,7 @@ def process_all_pubs(config, source_file, target_file):
         panzer_func(panzer_source_file, paper_page_target_file)
 
         #
-        bibinfo['link'].insert(0, ('abstract', config['WEB']['baseUrl'] + paper_page_target_file.abspathfromref))
+        bibinfo['link'].insert(0, ('abstract', config['WEB']['baseUrl'] + paper_page_target_file.absdirnamefromref))
 
         bibinfo['md'] = bibinfo_to_md(bibinfo, bibfile, stylefile)
 

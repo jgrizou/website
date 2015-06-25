@@ -30,6 +30,10 @@ class File(object):
         return os.path.join(os.sep, self.relpath)
 
     @property
+    def absdirnamefromref(self):
+        return os.path.join(os.sep, self.reldirname)
+
+    @property
     def relpath(self):
         return os.path.relpath(self.path, self.refpath)
 
