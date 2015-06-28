@@ -9,6 +9,7 @@ git checkout --orphan gh-pages
 ./build.py --full
 mv bin .tmp
 mv build.log .build.log
+mv CNAME .CNAME
 
 rm -rf *
 rm .gitignore
@@ -16,6 +17,7 @@ rm .gitignore
 mv .tmp/* .
 rm -r .tmp
 mv .build.log build.log
+mv .CNAME CNAME
 
 git add .
 git commit -m "build"
