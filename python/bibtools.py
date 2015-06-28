@@ -138,12 +138,21 @@ def process_all_pubs(config, source_file, target_file):
         biblinkfile.change_ext('txt')
         biblinkfile.change_refpath(target_file.refpath)
         biblinkfile.write(content)
-        bibinfo['link'] = [('bib', biblinkfile.abspathfromref)]
+        bibinfo['link'] = [('bib', config['WEB']['baseUrl'] + biblinkfile.abspathfromref)]
 
         #
-        linkfile = os.path.join(folder, 'link.cfg')
-        if os.path.exists(linkfile):
-            add_linkinfo(bibinfo, linkfile)
+        link_source_file = filetools.File(os.path.join(folder, 'link.cfg'), source_file.refpath)
+        if link_source_file.exists:
+
+            link_target_file = link_source_file.duplicate(tmpfile_refpath)
+
+            jinja_filter_refpath = os.path.join(config['PATH']['jinja'], 'filter')
+            baseUrl = config['WEB']['baseUrl']
+
+            jinja_func = ruletools.apply_jinja(jinja_filter_refpath, baseUrl)
+            jinja_func(link_source_file, link_target_file)
+
+            add_linkinfo(bibinfo, link_target_file.path)
 
         # making paper page
         paper_page_source_file = filetools.File(bibfile, source_file.refpath)
