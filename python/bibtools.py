@@ -70,9 +70,10 @@ def bibinfo_to_md(bibinfo, bibfile, stylefile):
     bib_style = citeproc.CitationStylesStyle(stylefile, validate=False)
     bibliography = citeproc.CitationStylesBibliography(bib_style,
                                                        bib_source,
-                                                       citeproc.formatter.plain)
+                                                       citeproc.formatter.html)
 
     citation = citeproc.Citation([citeproc.CitationItem(bibinfo['id'])])
+
     bibliography.register(citation)
 
     md = str(bibliography.bibliography()[0])
@@ -208,12 +209,12 @@ def pubs_to_md_per_year(pubs):
 
     md = "<div id='peryear'> \n"
     current_year = None
-    for pub in sorted_pubs:
+    for i, pub in enumerate(sorted_pubs):
         if current_year != pub['year']:
             current_year = pub['year']
             md += '## ' + current_year + '\n\n'
 
-        md += '- ' + pub['md'] + '\n\n'
+        md += str(i + 1) + '. ' + pub['md'] + '\n\n'
     md += '</div>'
 
     return md
@@ -225,13 +226,13 @@ def pubs_to_md_per_type(pubs):
 
     md = "<div id='pertype'> \n"
     current_type = ''
-    for pub in sorted_pubs:
+    for i, pub in enumerate(sorted_pubs):
         if current_type != pub['type']:
             current_type = pub['type']
             type_index = ENTRYTYPE.index(current_type)
             md += '## ' + ENTRYTITLE[type_index] + '\n\n'
 
-        md += '- ' + pub['md'] + '\n\n'
+        md += str(i + 1) + '. ' + pub['md'] + '\n\n'
     md += '</div>'
 
     return md
@@ -241,11 +242,11 @@ def pubs_to_md_selected(pubs, selected_publication_id):
 
     md = "<div id='selected'> \n"
     md += '## Selected Publications\n\n'
-    for pub_id in selected_publication_id:
+    for i, pub_id in enumerate(selected_publication_id):
 
         func = lambda p: p['id'] == pub_id
         match_pub = list(filter(func, pubs))[0]
 
-        md += '- ' + match_pub['md'] + '\n\n'
+        md += str(i + 1) + '. ' + match_pub['md'] + '\n\n'
 
     return md
