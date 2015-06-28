@@ -56,23 +56,25 @@ def get_isotope_js():
 
     isotope_js = """
     <script>
-    $(window).ready( function() {
+    $(document).ready( function() {
+
+        var $grid = $('.grid');
 
         // init Isotope
-        var $grid = $('.grid').isotope({
-            layoutMode: 'packery',
-            itemSelector: '.grid-item',
-            packery: {
-              gutter: 10
-            }
+        $grid.imagesLoaded(function(){
+            $grid.isotope({
+                layoutMode: 'packery',
+                itemSelector: '.grid-item',
+                packery: {
+                  gutter: 10
+                }
+            });
         });
 
         $('.filters-button-group').on( 'click', 'button', function() {
         var filterValue = $( this ).attr('data-filter');
         $grid.isotope({ filter: filterValue });
         });
-
-        $grid.isotope({ filter: '*' });
 
     });
     </script>
