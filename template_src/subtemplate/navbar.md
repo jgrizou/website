@@ -1,6 +1,8 @@
 ---
 style: Navbar
-brand: Jonathan Grizou
+brand:
+  name: Jonathan Grizou
+  link: {{ "/" | web_path}}
 navbar:
   - name: home
     link: {{ "/" | web_path}}

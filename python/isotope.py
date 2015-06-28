@@ -72,6 +72,8 @@ def get_isotope_js():
         $grid.isotope({ filter: filterValue });
         });
 
+        $grid.isotope({ filter: '*' });
+
     });
     </script>
     """
