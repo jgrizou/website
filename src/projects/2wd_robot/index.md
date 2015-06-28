@@ -23,14 +23,19 @@ I did most of the code on-board including the communication protocol, the encode
 </div>
 
 <script>
-$(window).ready( function() {
+$(document).ready( function() {
+
+  var $grid = $('.grid');
+
   // init Isotope
-  var $grid = $('.grid').isotope({
-  layoutMode: 'packery',
-  itemSelector: '.media-item',
-  packery: {
-  gutter: 5
-  }
+  $grid.imagesLoaded(function(){
+    var $grid = $('.grid').isotope({
+      layoutMode: 'packery',
+      itemSelector: '.media-item',
+      packery: {
+      gutter: 5
+      }
+    });
   });
 });
 </script>
