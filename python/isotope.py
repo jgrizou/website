@@ -56,7 +56,7 @@ def get_isotope_js():
 
     isotope_js = """
     <script>
-    $(document).ready( function() {
+    $(window).ready( function() {
 
         // init Isotope
         var $grid = $('.grid').isotope({

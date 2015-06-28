@@ -22,7 +22,7 @@ That was a fun project! Check the photos and videos below.
 </div>
 
 <script>
-$(document).ready( function() {
+$(window).ready( function() {
   // init Isotope
   var $grid = $('.grid').isotope({
   layoutMode: 'packery',

@@ -26,7 +26,7 @@ It was a lot of fun!  I notably printed the first part of the [Poppy project](ht
 </div>
 
 <script>
-$(document).ready( function() {
+$(window).ready( function() {
   // init Isotope
   var $grid = $('.grid').isotope({
   layoutMode: 'packery',

@@ -16,7 +16,7 @@ Together with [Jérome Bechu](http://jerome.bechu.org/) we have been prototyping
 </div>
 
 <script>
-$(document).ready( function() {
+$(window).ready( function() {
   // init Isotope
   var $grid = $('.grid').isotope({
   layoutMode: 'packery',

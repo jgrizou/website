@@ -23,7 +23,7 @@ I did most of the code on-board including the communication protocol, the encode
 </div>
 
 <script>
-$(document).ready( function() {
+$(window).ready( function() {
   // init Isotope
   var $grid = $('.grid').isotope({
   layoutMode: 'packery',
