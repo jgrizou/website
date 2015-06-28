@@ -4,4 +4,4 @@ navbar:
   about: true
 ---
 
-![](shake.gif)
+Not much here for now

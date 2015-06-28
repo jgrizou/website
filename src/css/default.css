@@ -76,10 +76,12 @@ html {
   position: relative;
   min-height: 100%;
 }
+
 body {
    /*Margin bottom by footer height */
   margin-bottom: 150px;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
