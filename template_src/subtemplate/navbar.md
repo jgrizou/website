@@ -19,13 +19,8 @@ navbar:
   - dropdown:
       display: Drop
       item:
-        - link: {{ "/test" | web_path}}
+        - link: {{ "/" | web_path}}
           display: Test
-
-  - side: right
-    name: about
-    link: {{ "/about" | web_path}}
-    display: About
 
   - side: right
     name: contact
