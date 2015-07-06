@@ -17,10 +17,12 @@ navbar:
     display: Publications
 
   - dropdown:
-      display: Drop
+      display: More
       item:
-        - link: {{ "/" | web_path}}
-          display: Test
+        - link: {{ "/cv" | web_path}}
+          display: CV
+        - link: {{ "/moocs" | web_path}}
+          display: MOOCs
 
   - side: right
     name: contact

@@ -7,6 +7,7 @@ styledef:
         standalone: true
         include-in-header:
           - "`include/css.html`"
+          - "`include/default_css.html`"
           - "`include/js.html`"
         include-before-body:
           - "`include/navbar.html`"

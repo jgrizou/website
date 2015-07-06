@@ -141,3 +141,16 @@ def apply_python(config):
         module.main(config, source_file, target_file)
 
     return python
+
+
+# wkhtmltopdf
+def apply_wkhtmltopdf():
+
+    def wkhtmltopdf(source_file, target_file):
+
+        command = ['wkhtmltopdf', source_file.path, target_file.path]
+        proc = subprocess.Popen(command, stderr=subprocess.PIPE)
+
+        logger.info("\n" + proc.stderr.read().decode())
+
+    return wkhtmltopdf
