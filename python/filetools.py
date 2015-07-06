@@ -100,3 +100,8 @@ class File(object):
         ensure_dir(self)
         with open(self.path, 'w') as f:
             f.write(data)
+
+    def append(self, data):
+        ensure_dir(self)
+        with open(self.path, 'a') as f:
+            f.write(data)

@@ -132,7 +132,7 @@ def build_site():
     default_rule = {'make_target_file': ruletools.duplicate_at_target,
                     'compile': ruletools.copy_to_target}
 
-    ignore_patterns = ['*.DS_Store', '*__pycache__*', 'thumbnail.md']
+    ignore_patterns = ['*.DS_Store', '*__pycache__*', 'thumbnail.md', 'cv/sections']
 
     jinja_filter_path = os.path.join(config['PATH']['jinja'], 'filter')
     panzer_args = ['---panzer-support', config['PATH']['panzer']]
@@ -206,7 +206,7 @@ if __name__ == "__main__":
 
     #
     if args.local:
-        config['WEB']['baseUrl'] = ''
+        config['WEB']['baseUrl'] = 'http://127.0.0.1:8000'
 
     if args.clean:
         clean_all()

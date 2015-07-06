@@ -107,6 +107,23 @@ def bibinfo_to_paper_page(bibinfo):
     return page_md
 
 
+def get_bibdatabase(pub_folder):
+    subfolders = [x[0] for x in os.walk(pub_folder)]
+
+    bibdatabase = bibtexparser.bibdatabase.BibDatabase()
+    for folder in subfolders:
+
+        bibfile = os.path.join(folder, 'bibtex.bib')
+        if not os.path.exists(bibfile):
+            continue
+
+        homogeneize_bibfile(bibfile)
+        bibinfo = read_bibfile(bibfile)
+        bibdatabase.entries.append(bibinfo.copy())
+
+    return bibdatabase
+
+
 def process_all_pubs(config, source_file, target_file):
 
     sys.path.append(config['PATH']['python'])
