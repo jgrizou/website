@@ -1,6 +1,17 @@
 <div class="grid-item thumbnail $additional_class$">
 
-  <a href="$link$" class="thumbnail"> <img src="$image_src$"> </a>
+
+  <div class="row">
+    <div class="col-md-4">
+      <a href="$link$" class="thumbnail"> <img src="$image_src$" class="img-responsive center-block"> </a>
+    </div>
+    <div class="col-md-8">
+      $body$
+      <a class="btn btn-primary" href="$link$">$button_text$<span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div>
+  </div>
+
+  <!-- <a href="$link$" class="thumbnail"> <img src="$image_src$"> </a>
 
   <div class="caption">
 
@@ -8,5 +19,5 @@
 
     <a class="btn btn-primary" href="$link$">$button_text$<span class="glyphicon glyphicon-chevron-right"></span></a>
 
-  </div>
+  </div> -->
 </div>
