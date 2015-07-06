@@ -1,6 +1,4 @@
-\pagestyle{empty}
-
-# Online Courses
+## Online Courses
 
 I participated in the following courses so far (all certificates are available upon request):
 

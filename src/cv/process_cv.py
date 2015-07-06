@@ -10,7 +10,8 @@ section_ordering = ['header.md',
                     'services.md',
                     'skills.md',
                     'languages.md',
-                    'personal.md']
+                    'personal.md',
+                    'moocs.md']
 
 
 def main(config, source_file, target_file):

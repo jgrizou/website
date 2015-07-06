@@ -16,13 +16,15 @@ navbar:
     link: {{ "/publications" | web_path}}
     display: Publications
 
+  - name: cv
+    link: {{ "/cv" | web_path}}
+    display: CV
+
   - dropdown:
       display: More
       item:
-        - link: {{ "/cv" | web_path}}
-          display: CV
-        - link: {{ "/moocs" | web_path}}
-          display: MOOCs
+        - link: {{ "/" | web_path}}
+          display: Test
 
   - side: right
     name: contact

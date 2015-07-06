@@ -1,5 +1,7 @@
 ---
 style: CV
+navbar:
+  cv: true
 ---
 
 <button type="button" class="btn btn-default btn-lg pull-right" id="buttonhtml">
