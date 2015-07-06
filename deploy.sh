@@ -26,6 +26,7 @@ git add .
 git commit -m "build"
 
 git push origin --delete gh-pages
+
 git push origin gh-pages
 
 ##
