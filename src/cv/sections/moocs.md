@@ -43,6 +43,3 @@ Grade: 99%. Earned with distinction. [[Verified certificate]](https://www.course
 
 - **Interactive Computer Graphics with WebGL**, by Edward Angel, University of New Mexico, 2015.\
 **Ongoing**
-
-- **Epigenetic Control of Gene Expression**, by Marnie Blewitt, The University of Melbourne, 2015.\
-**Ongoing**
