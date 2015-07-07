@@ -3,6 +3,7 @@ style: GridItem
 additional_class: "research robot 3d"
 link: https://www.poppy-project.org/
 image_src: {{ "thumbnail.png" | relative_path | web_path }}
+ordering: 5
 ---
 
 

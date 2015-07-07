@@ -3,6 +3,7 @@ style: GridItem
 additional_class: "robot 3d"
 link: {{ "" | relative_path | web_path }}
 image_src: {{ "thumbnail.png" | relative_path | web_path }}
+ordering: 10
 ---
 
 

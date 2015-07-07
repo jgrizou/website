@@ -67,7 +67,12 @@ def get_isotope_js():
                 itemSelector: '.grid-item',
                 packery: {
                   gutter: 10
-                }
+                },
+                getSortData: {
+                    ordering: '.grid-ordering parseInt'
+                },
+                sortBy: 'ordering',
+                sortAscending: false,
             });
         });
 
