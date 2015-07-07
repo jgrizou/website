@@ -26,7 +26,7 @@ I am currently moving towards the field of self-organization and complexity.
   </div>
   <div class="panel-body panel-body">
 
-Our PlosOne paper on self-calibrated brain-machine interface control using error-related potentials is online at  http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131491. The code and the paper source are available online: [https://github.com/flowersteam/self_calibration_BCI_plosOne_2015](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015)
+Our PlosOne paper on self-calibrated brain-machine interface control using error-related potentials is [online](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131491). The code and the paper source are available online: [https://github.com/flowersteam/self_calibration_BCI_plosOne_2015](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015)
 
 This work is a direct application of my thesis work on learning from unlabeled instructions. See the [project page]({{ "/projects/self_calibration_bci/" | web_path }}) and [my thesis defense]({{"/projects/thesis_defense/" | web_path}}).
 
