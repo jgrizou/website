@@ -5,7 +5,7 @@
 
     Specialized in developmental robotics and interactive systems.\
     *Supervisors:* [Manuel Lopes](http://flowers.inria.fr/mlopes) and [Pierre-Yves Oudeyer](http://www.pyoudeyer.com/).\
-    *Defense:* [http://jgrizou.com/projects/thesis-defense/](http://jgrizou.com/projects/thesis-defense/)
+    *Defense:* [http://jgrizou.com/projects/thesis-defense/](http://jgrizou.com/projects/thesis_defense/)
 
 2010-2011
 :   *MSc, Micro and Nano Systems* ([Université Paul Sabatier](http://www.ups-tlse.fr/), France).
