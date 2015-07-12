@@ -20,7 +20,7 @@ Sharing your work also help establishing good scientific practice, which is real
 
 Some links to get started:
 
-  - [GitHub](https://github.com/) the simplest way to share your code. I also use it to host my [website](https://github.com/jgrizou/website) and to share [paper code and data](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015/tree/plosOne) thanks to the [release system](https://help.github.com/articles/about-releases/).
+  - [GitHub](https://github.com/) is the simplest way to share your code. I also use it to host my [website](https://github.com/jgrizou/website) and to share [paper code and data](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015/tree/plosOne) thanks to the [release system](https://help.github.com/articles/about-releases/).
 
   - [Open Science Framework](https://osf.io/) helps you manage projects with your colleagues in a friendly manner. It connects directly with many third party services, such as [GitHub](https://github.com/), [Dropbox](https://www.dropbox.com), [figshare](http://figshare.com/), and [Mendeley](https://www.mendeley.com/).
 
