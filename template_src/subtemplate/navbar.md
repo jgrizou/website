@@ -23,8 +23,8 @@ navbar:
   - dropdown:
       display: More
       item:
-        - link: {{ "/" | web_path}}
-          display: Test
+        - link: {{ "/open_science" | web_path}}
+          display: Open Science
 
   - side: right
     name: contact
