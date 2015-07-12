@@ -72,17 +72,3 @@ def main(config, source_file, target_file):
 
     # write a dummy file at target to confirm good exec
     target_file.write('<p> done </p>')
-
-# # pandoc $compilingOrder -o cv.pdf --variable=geometry:a4paper
-#
-# pandoc $compilingOrder -o cv.html --standalone -c style.css
-#
-# wkhtmltopdf cv.html cv.pdf
-#
-# ###
-#
-# # pandoc moocs.md -o moocs.pdf --variable=geometry:a4paper
-#
-# pandoc moocs.md -o moocs.html --standalone -c style.css
-#
-# wkhtmltopdf moocs.html moocs.pdf
