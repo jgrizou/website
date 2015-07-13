@@ -45,6 +45,10 @@ Others
 
 {{ {"filter": "other", "quote": "Life is not a matter of holding good cards, but of playing a poor hand well.", "author": "Robert Louis Stevenson"} | quote }}
 
+{{ {"filter": "other", "quote": "You cannot swim for new horizons until you have courage to lose sight of the shore.", "author": "William Faulkner"} | quote }}
+
+{{ {"filter": "other", "quote": "I think prime numbers are like life. They are very logical but you could never work out the rules, even if you spent all your time thinking about them.", "author": "Mark Haddon"} | quote }}
+
 {{ {"filter": "other", "quote": "On ne juge pas un homme sur le nombre de fois qu'il tombe, mais sur le nombre de fois qu'il se relève.", "author": "Jigoro Kano"} | quote }}
 
 {{ {"filter": "other", "quote": "So many things are possible just as long as you don't know they're impossible.", "author": "Norton Juster"} | quote }}
@@ -73,6 +77,31 @@ Others
 
 {{ {"filter": "other", "quote": "It's not denial. I'm just selective about the reality I accept.", "author": "Bill Watterson"} | quote }}
 
+{{ {"filter": "other", "quote": "We improve ourselves by victory over our self. There must be contests, and you must win.", "author": "Edward Gibbon"} | quote }}
+
+{{ {"filter": "other", "quote": "Facts are like cows. If you look them in the face long enough, they generally run away.", "author": "Dorothy L. Sayers"} | quote }}
+
+{{ {"filter": "other", "quote": "Life appears to me too short to be spent in nursing animosity or registering wrongs.", "author": "Charlotte Brontë"} | quote }}
+
+{{ {"filter": "other", "quote": "When I discover who I am, I’ll be free.", "author": "Ralph Ellison"} | quote }}
+
+{{ {"filter": "other", "quote": "Nobody said not to go.", "author": "Emily Hahn"} | quote }}
+
+{{ {"filter": "other", "quote": "It's discouraging to think how many people are shocked by honesty and how few by deceit.", "author": "Noël Coward"} | quote }}
+
+{{ {"filter": "other", "quote": "I have failed at many things, but I have never been afraid.", "author": "Nadine Gordimer"} | quote }}
+
+{{ {"filter": "other", "quote": "That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.", "author": "James Jones"} | quote }}
+
+{{ {"filter": "other", "quote": "Ordinary life is pretty complex stuff.", "author": "Harvey Pekar"} | quote }}
+
+{{ {"filter": "other", "quote": "People make mistakes in life through believing too much, but they have a damned dull time if they believe too little.", "author": "James Hilton"} | quote }}
+
+{{ {"filter": "other", "quote": "I always worried someone would notice me, and then when no one did, I felt lonely.", "author": "Curtis Sittenfeld"} | quote }}
+
+{{ {"filter": "other", "quote": "You are imperfect, permanently and inevitably flawed. And you are beautiful.", "author": "Amy Bloom"} | quote }}
+
+{{ {"filter": "other", "quote": "Remain true to yourself, child. If you know your own heart, you will always have one friend who does not lie.", "author": "Marion Zimmer Bradley"} | quote }}
 
 </div>
 
