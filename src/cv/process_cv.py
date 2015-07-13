@@ -5,8 +5,10 @@ section_ordering = ['header.md',
                     'education.md',
                     'experiences.md',
                     'awards.md',
+                    'grants.md',
                     'collaboration.md',
                     'publications.md',
+                    'talks.md',
                     'services.md',
                     'skills.md',
                     'languages.md',
@@ -25,19 +27,25 @@ def main(config, source_file, target_file):
 
     import os
     import filetools
+    import ruletools
 
     tmpfile_refpath = config['PATH']['tmp']
 
-    cv_source_file = source_file.duplicate()
-    cv_source_file.change_refpath(tmpfile_refpath)
+    cv_source_file = source_file.duplicate(tmpfile_refpath)
     cv_source_file.change_filename('cv.md')
 
     for section in section_ordering:
         section_file_path = os.path.join(source_file.dirname, section_folder, section)
-        section_file = filetools.File(section_file_path, source_file.refpath)
-        cv_source_file.append(section_file.read() + '\n\n')
+        section_source_file = filetools.File(section_file_path, source_file.refpath)
 
-    import ruletools
+        jinja_filter_path = os.path.join(config['PATH']['jinja'], 'filter')
+        baseUrl = config['WEB']['baseUrl']
+        jinja_func = ruletools.apply_jinja(jinja_filter_path, baseUrl)
+
+        section_target_file = section_source_file.duplicate(tmpfile_refpath)
+        jinja_func(section_source_file, section_target_file)
+
+        cv_source_file.append(section_target_file.read() + '\n\n')
 
     # cv html
     cv_target_file = cv_source_file.duplicate(target_file.refpath)
@@ -72,3 +80,14 @@ def main(config, source_file, target_file):
 
     # write a dummy file at target to confirm good exec
     target_file.write('<p> done </p>')
+
+    panzer_args = ['---panzer-support', config['PATH']['panzer']]
+    working_directory = config['PATH']['panzer']
+
+    jinjapanzer_func = ruletools.apply_jinja_then_panzer(
+        jinja_filter_path,
+        config['WEB']['baseUrl'],
+        panzer_args,
+        config['PATH']['tmp'],
+        working_directory)
+    jinjapanzer_func(cv_source_file, cv_target_file)

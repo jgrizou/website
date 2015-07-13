@@ -1,4 +1,5 @@
 ## Languages
 
-Professional efficiency: French, English.\
-Basic knowledge: Spanish.
+**Professional efficiency:** French, English.\
+
+**Basic knowledge:** Spanish.

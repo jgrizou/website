@@ -1,6 +1,6 @@
 ## Publications
 
-A full list of publication is included at the end of this curriculum vitæ.
+A full list of publication should be included with this curriculum vitæm, it can also be found on my website: [{{ "/publications/publications_pertype.pdf" | web_path }}]({{ "/publications/publications_pertype.pdf" | web_path }})
 
 Google Scholar page: [http://scholar.google.fr/citations?user=Fej-hGQAAAAJ&hl=en](http://scholar.google.fr/citations?user=Fej-hGQAAAAJ&hl=en)
 
