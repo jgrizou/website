@@ -24,8 +24,7 @@ Some links to get started:
 
     * [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/)
     * [https://github.com/blog/1840-improving-github-for-science](https://github.com/blog/1840-improving-github-for-science)
-    * [http://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository](http://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository)
-
+    * [http://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository](http://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository)  <br></br>
 
   - [Open Science Framework](https://osf.io/) helps you manage projects with your colleagues in a friendly manner. It connects directly with many third party services, such as [GitHub](https://github.com/), [Dropbox](https://www.dropbox.com), [figshare](http://figshare.com/), and [Mendeley](https://www.mendeley.com/).
 
