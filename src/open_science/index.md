@@ -20,9 +20,7 @@ Sharing your work also help establishing good scientific practice, which is real
 
 Some links to get started:
 
-  - [GitHub](https://github.com/) is the simplest way to share your code. I also use it to host my [website](https://github.com/jgrizou/website) and to share [paper code and data](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015/tree/plosOne) thanks to the [release system](https://help.github.com/articles/about-releases/).
-
-  You can cite your github repository:
+  - [GitHub](https://github.com/) is the simplest way to share your code. I also use it to host my [website](https://github.com/jgrizou/website) and to share [paper code and data](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015/tree/plosOne) thanks to the [release system](https://help.github.com/articles/about-releases/). You can cite your github repository:
 
     * [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/)
     * [https://github.com/blog/1840-improving-github-for-science](https://github.com/blog/1840-improving-github-for-science)
