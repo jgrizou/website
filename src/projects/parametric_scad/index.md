@@ -21,5 +21,6 @@ Poppy mini creatures are built from [XL320 motors](http://support.robotis.com/en
 
 ### Robots:
  [[poppy-ergo-jr]](https://github.com/poppy-project/poppy-ergo-jr) [[poppy-4dof-arm-mini]](https://github.com/poppy-project/poppy-4dof-arm-mini) [[poppy-multipod-mini]](https://github.com/poppy-project/poppy-multipod-mini) [[poppy-snake-mini]](https://github.com/poppy-project/poppy-snake-mini) [[poppy-4wheels-mini]](https://github.com/poppy-project/poppy-4wheels-mini)
+ [[poppy-dragster-mini]](https://github.com/poppy-project/poppy-dragster-mini)
 
 <img src="img/poppy_mini_familly.png" class="img-responsive center-block">
