@@ -11,10 +11,10 @@ Poppy mini creatures are built from [XL320 motors](http://support.robotis.com/en
 
 <div class="row">
   <div class="col-md-7""> <img src="img/ergojr.jpg" class="img-responsive center-block"> </div>
-  <div class="col-md-5"> <iframe src="https://vine.co/v/OxlTF6inWpV/embed/simple" width="600" height="600" frameborder="0"></iframe>
-  <script src="https://platform.vine.co/static/scripts/embed.js"></script> </div>
+  <div class="col-md-5">
+  <style>.embed-container {position: relative; padding-bottom: 100%; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width='100%' src='https://vine.co/v/OxlTF6inWpV/embed/simple' frameborder='0' scrolling='no' allowtransparency='true'></iframe><script async src='//platform.vine.co/static/scripts/embed.js' charset='utf-8'></script></div>  
+  </div>
 </div>
-
 
 ### Libraries:
  [[robotis-scad]](https://github.com/jgrizou/robotis-scad) [[segment-scad]](https://github.com/jgrizou/segment-scad)
