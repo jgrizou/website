@@ -39,9 +39,11 @@ Others
 
 {{ {"filter": "science", "quote": "Because instruments determine what can be done, they also determine to some extent what can be thought.", "author": "Albert van Helden and Thomas Hankins", "year": "1994"} | quote }}
 
+{{ {"filter": "science", "quote": "(par hasard, direz-vous peut-être, mais souvenez-vous que dans les champs de l’observation le hasard ne favorise que les esprits préparés)", "author": "Louis Pasteur", "year": "1854", "link": "https://innovationetserendipite.wordpress.com/2011/01/26/le-hasard-ne-favorise-que-les-esprits-prepares-pasteur/"} | quote }}
+
 {{ {"filter": "science", "quote": "No amount of experimentation can ever prove me right; a single experiment can prove me wrong.", "author": "Albert Einstein"} | quote }}
 
-{{ {"filter": "science", "quote": "It is not even wrong.", "author": "Wolfgang Pauli", "year": "https://en.wikipedia.org/wiki/Not_even_wrong"} | quote }}
+{{ {"filter": "science", "quote": "It is not even wrong.", "author": "Wolfgang Pauli", "link": "https://en.wikipedia.org/wiki/Not_even_wrong"} | quote }}
 
 {{ {"filter": "science", "quote": "La recherche de la vérité doit être le but de notre activité; c’est la seule fin qui soit digne d’elle. Sans doute devons nous d’abord nous efforcer de soulager les souffrances humaines, mais pourquoi? Ne pas souffrir, c’est un idéal négatif et qui serait plus sûrement atteint par l’anéantissement du monde.", "author": "Henri Poincaré", "source": "La valeur de la science", "year": "1905"} | quote }}
 

@@ -4,7 +4,7 @@ import jinja2
 @jinja2.contextfilter
 def quote(context, quote_info):
 
-    html = '<div class="grid-item ' + quote_info['filter'] +'">'
+    html = '<div class="grid-item ' + quote_info['filter'] + '">'
     html += '<blockquote class="blockquote-reverse">'
     html += '<p>' + quote_info['quote'] + '</p>'
     html += '<footer>' + quote_info['author']
@@ -14,6 +14,9 @@ def quote(context, quote_info):
     if 'year' in quote_info:
         html += ', ' + quote_info['year']
     html += '</cite>'
+    if 'link' in quote_info:
+        html += '<span>  |  </span>'
+        html += '<a href="' + quote_info['link'] + '">[Link]</a>'
     html += '</footer>'
     html += '</blockquote>'
     html += '</div>'
