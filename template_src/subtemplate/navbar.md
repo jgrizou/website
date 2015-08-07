@@ -23,8 +23,12 @@ navbar:
   - dropdown:
       display: More
       item:
-        - link: {{ "/open_science" | web_path}}
+        - link: {{ "/blog/open_science" | web_path}}
           display: Open Science
+        - link: {{ "/blog/p_values" | web_path}}
+          display: P-Values
+        - link: {{ "/misc" | web_path}}
+          display: Misc
 
   - side: right
     name: contact
