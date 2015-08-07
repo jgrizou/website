@@ -8,12 +8,16 @@
  */
 
 /* Title of the resume */
-/*h1 {
-    font-size: 55px;
+h1 {
+    font-size: 42px;
     color: #757575;
     text-align:center;
+
+    margin: 0 0 16px 0;
+    padding: 0 0 16px 0;
     margin-bottom:15px;
-}*/
+    border-bottom: 1px solid #999;
+}
 /*h1:hover {
     background-color: #757575;
     color: #FFFFFF;

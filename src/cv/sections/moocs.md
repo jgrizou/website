@@ -38,8 +38,15 @@ Grade: 96%. Earned with distinction. [[Verified certificate]](https://www.course
 - **What a Plant Knows (and other things you didn’t know about plants)**, by Daniel Chamovitz, Tel Aviv University on Coursera, 2015.\
 Grade: 99%. Earned with distinction. [[Verified certificate]](https://www.coursera.org/verify/JAETMUV5MH)
 
-- **Animal Behaviour**, by Raoul Mulder and Mark Elgar, The University of Melbourne, 2015.\
+- **Animal Behaviour**, by Raoul Mulder and Mark Elgar, The University of Melbourne on Coursera, 2015.\
+Grade: 95.8%. Earned with distinction. [[Verified certificate]](https://www.coursera.org/verify/SKGM2TQZVH)
+
+- **Interactive Computer Graphics with WebGL**, by Edward Angel, The University of New Mexico on Coursera, 2015.\
 **Ongoing**
 
-- **Interactive Computer Graphics with WebGL**, by Edward Angel, University of New Mexico, 2015.\
+- **Interactive 3D Graphics - Creating Virtual Worlds**, by Eric Haines and Gundega Dekena, On Udacity, 2015.\
 **Ongoing**
+
+- **Object-Oriented JavaScript - Writing Reusable and Maintainable Code**, by Marcus Phillips and Michael Wales, On Udacity, 2015.
+
+- **HTML5 Canvas - From Pixels to Animation!**, by James Williams and Cameron Pittman, On Udacity, 2015.
