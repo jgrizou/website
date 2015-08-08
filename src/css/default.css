@@ -15,6 +15,11 @@ p {
   text-justify: inter-word;
 }
 
+li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /* Pannel */
 .panel-primary .panel-body {
   background: #CEE3F6; /* light blue */
