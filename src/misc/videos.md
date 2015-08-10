@@ -7,7 +7,9 @@ style: Default
 
 #### Science
 
+- [Peut-on comprendre d’où provient l’efficacité des mathématiques en physique ?](https://www.youtube.com/watch?v=YQMhrVSR6X0)
 - [La thermodynamique de l'évolution](https://www.youtube.com/watch?v=6lNz5vmKEFA)
+
 
 #### History of Science and Technology
 
@@ -17,7 +19,6 @@ style: Default
 #### Various
 
 - [John Cleese on Creativity](https://www.youtube.com/watch?v=Qby0ed4aVpo)
-
 
 #### Humour
 

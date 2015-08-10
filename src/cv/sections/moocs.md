@@ -47,6 +47,8 @@ Grade: 95.8%. Earned with distinction. [[Verified certificate]](https://www.cour
 - **Interactive 3D Graphics - Creating Virtual Worlds**, by Eric Haines and Gundega Dekena, On Udacity, 2015.\
 **Ongoing**
 
+- **JavaScript Design Patterns - Organizing Code in a Disorganized World**, by Ben Jaffe, On Udacity, 2015.
+
 - **Object-Oriented JavaScript - Writing Reusable and Maintainable Code**, by Marcus Phillips and Michael Wales, On Udacity, 2015.
 
 - **HTML5 Canvas - From Pixels to Animation!**, by James Williams and Cameron Pittman, On Udacity, 2015.
