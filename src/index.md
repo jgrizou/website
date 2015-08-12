@@ -48,6 +48,8 @@ I am involved in the **[Poppy project](https://www.poppy-project.org/)**. I am m
 **Robots:** [[poppy-ergo-jr]](https://github.com/poppy-project/poppy-ergo-jr) [[poppy-4dof-arm-mini]](https://github.com/poppy-project/poppy-4dof-arm-mini) [[poppy-multipod-mini]](https://github.com/poppy-project/poppy-multipod-mini) [[poppy-snake-mini]](https://github.com/poppy-project/poppy-snake-mini) [[poppy-4wheels-mini]](https://github.com/poppy-project/poppy-4wheels-mini)
 [[poppy-dragster-mini]](https://github.com/poppy-project/poppy-dragster-mini)
 
+I am currently developing a [web visualisation for one of our robot](http://poppy-project.github.io/poppy-ergo-jr/simulator/), allowing the community to discover our tools without access to a physical robot.
+
 [Feel free to contribute!](https://forum.poppy-project.org/t/cfc-extending-the-poppy-mini-family-we-need-your-help/1346)
 
   </div>

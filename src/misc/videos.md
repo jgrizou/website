@@ -24,4 +24,4 @@ style: Default
 
 - [La politique vue par Raymond Devos](https://www.youtube.com/watch?v=xpCx_bmPyOQ)
 - [Everything is amazing, nobody is happy](http://zenmoments.org/everythings-amazing-nobodys-happy/)
-- Watch some videos of The Daily Show with Jon Stewart [[1]](http://thedailyshow.cc.com/videos/ehkm0w/ricky-gervais)
+- Watch some videos of The Daily Show with Jon Stewart [[1]](https://www.youtube.com/watch?v=mqmtjlSxA_g) [[2]](http://thedailyshow.cc.com/videos/ehkm0w/ricky-gervais)
