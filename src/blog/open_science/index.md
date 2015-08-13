@@ -18,6 +18,12 @@ Let's be honest, **a paper is never enough to grasp all details of a work, espec
 
 Sharing your work also help establishing good scientific practice, which is really important: [http://nautil.us/issue/24/error/the-trouble-with-scientists](http://nautil.us/issue/24/error/the-trouble-with-scientists)
 
+Some papers:
+
+  - [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+
+  - [A testimony in neuroscience](http://journal.frontiersin.org/article/10.3389/fncom.2015.00030/full)
+
 Some links to get started:
 
   - [GitHub](https://github.com/) is the simplest way to share your code. I also use it to host my [website](https://github.com/jgrizou/website) and to share [paper code and data](https://github.com/flowersteam/self_calibration_BCI_plosOne_2015/tree/plosOne) thanks to the [release system](https://help.github.com/articles/about-releases/). You can cite your github repository:
@@ -54,3 +60,8 @@ Some links to get started:
     * [http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html](http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html)
     * [http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
     * [http://kieranhealy.org/blog/archives/2014/01/23/plain-text/](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
+
+
+---
+
+And if you read this far, this might also help: [http://sci-hub.org/](http://sci-hub.org/)
