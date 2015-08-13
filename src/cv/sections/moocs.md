@@ -53,11 +53,11 @@ Grade: 95.8%. Earned with distinction. [[Verified certificate]](https://www.cour
 
 - **HTML5 Canvas - From Pixels to Animation!**, by James Williams and Cameron Pittman, On Udacity, 2015.
 
-- **Introduction to Complexity**, by Melanie Mitchell and Craig Daniels, On Complexity Explorer by the Santa Fe Institute, 2015./
+- **Introduction to Complexity**, by Melanie Mitchell and Craig Daniels, On Complexity Explorer by the Santa Fe Institute, 2015.\
 **Ongoing**
 
-- **Fractals and Scaling**, by David Feldman, On Complexity Explorer by the Santa Fe Institute, 2015./
+- **Fractals and Scaling**, by David Feldman, On Complexity Explorer by the Santa Fe Institute, 2015.\
 **Starting in September 2015**
 
-- **Nonlinear Dynamics: Mathematical and Computational Approaches**, by Elizabeth Bradleys, On Complexity Explorer by the Santa Fe Institute, 2015./
+- **Nonlinear Dynamics: Mathematical and Computational Approaches**, by Elizabeth Bradleys, On Complexity Explorer by the Santa Fe Institute, 2015.\
 **Starting in September 2015**
