@@ -12,7 +12,7 @@ git checkout --orphan gh-pages
 
 ./build.py --full
 
-if [ ! -f /tmp/foo.txt ]; then
+if [ -d ./bin ]; then
   mv bin .tmp
   mv build.log .build.log
 
