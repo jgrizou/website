@@ -11,23 +11,30 @@ git branch -D gh-pages
 git checkout --orphan gh-pages
 
 ./build.py --full
-mv bin .tmp
-mv build.log .build.log
 
-rm -rf *
-rm .gitignore
+if [ ! -f /tmp/foo.txt ]; then
+  mv bin .tmp
+  mv build.log .build.log
 
-mv .tmp/* .
-rm -r .tmp
-mv .build.log build.log
+  rm -rf *
+  rm .gitignore
 
-##
-git add .
-git commit -m "build"
+  mv .tmp/* .
+  rm -r .tmp
+  mv .build.log build.log
+  ##
+  git add .
+  git commit -m "build"
 
-git push origin --delete gh-pages
+  git push origin --delete gh-pages
 
-git push origin gh-pages
+  git push origin gh-pages
+
+else
+
+  echo "Could not build, coming back on master."
+
+fi
 
 ##
 git checkout master
