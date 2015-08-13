@@ -32,7 +32,11 @@ if [ -d ./bin ]; then
 
 else
 
+  echo ""
+  echo "###"
   echo "Could not build, coming back on master."
+  echo "###"
+  echo ""
 
 fi
 
