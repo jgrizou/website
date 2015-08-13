@@ -1,10 +1,13 @@
 #!/bin/bash
 
+pyenv activate website
+
+# saving to not loose any changes (better to do it before)
 git add .
 git commit -m "deploying"
 git push origin master
 
-##
+## buidling
 ./build.py --clean
 
 git branch -D gh-pages
