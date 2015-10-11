@@ -16,10 +16,6 @@ navbar:
     link: {{ "/publications" | web_path}}
     display: Publications
 
-  - name: cv
-    link: {{ "/cv" | web_path}}
-    display: CV
-
   - dropdown:
       display: More
       item:
@@ -29,6 +25,8 @@ navbar:
           display: P-Values
         - link: {{ "/misc" | web_path}}
           display: Misc
+        - link: {{ "/cv" | web_path}}
+          display: CV
 
   - side: right
     name: contact

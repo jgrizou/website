@@ -12,11 +12,11 @@ navbar:
 
 ## Short bio
 
-I am a Post-doc in the [INRIA and Ensta-ParisTech Flowers Team](https://flowers.inria.fr/), supervised by [Manuel Lopes](https://flowers.inria.fr/mlopes/) and [Pierre-Yves Oudeyer](http://www.pyoudeyer.com/).
+I am a PostDoc in the [Cronin group](http://www.chem.gla.ac.uk/cronin/). The group study the origins of life from different perspectives. I am particularly interested by the intersection of chemistry, robotics, and AI. We are currently studying [the properties of oil droplets as a function of their chemical composition via an automated evolutionary process](http://www.nature.com/ncomms/2014/141208/ncomms6571/full/ncomms6571.html). In other words, a robot autonomously performs simple chemical experiments, analyses them, and, depending on its previous observations, selects which experiment is to be performed next.
 
-I [defended my thesis]({{"/projects/thesis_defense/" | web_path}}) titled “Learning from Unlabeled Interaction Frames” on October 24th 2014 at INRIA Bordeaux. I investigated how to create calibration free interactive systems.
+I [defended my thesis]({{"/projects/thesis_defense/" | web_path}}) titled “Learning from Unlabeled Interaction Frames” on October 24th 2014. I pursued my PhD at the [INRIA and Ensta-ParisTech Flowers Team](https://flowers.inria.fr/) where I investigated how to create calibration free interactive systems. I was supervised by [Manuel Lopes](https://flowers.inria.fr/mlopes/) and [Pierre-Yves Oudeyer](http://www.pyoudeyer.com/).
 
-I am currently moving towards the field of self-organization and complexity.
+I am also a maker and an active member of the [Poppy project](https://www.poppy-project.org/), an open-source project providing tools to enable the creative exploration of interactive robots for science, education, and art. In 2015, we founded an association called ["Des Robots En Baskets"](https://github.com/desrobotsenbaskets/docs) to promote robotics as a tool for transdisciplinary education at many levels.
 
 ### Highlights
 

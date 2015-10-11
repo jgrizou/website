@@ -42,9 +42,13 @@ Some links to get started:
 
   - [plotly](https://plot.ly/) is an online analytics and data visualization tool.
 
+  - [ReciPy](https://github.com/recipy/recipy) effortless method to record provenance in Python: *"With the addition of a single line of code to the top of your Python files, ReciPy will log each run of your code to a database, keeping track of the input files, output files and the version of your code, and then let you query this database to find out how you actually did create graph.png."*
+
+  - [ReScience](https://github.com/ReScience/ReScience/wiki): *"ReScience is a peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible. To achieve such a goal, the whole editing chain is radically different from any other traditional scientific journal. ReScience lives on github where each new implementation is made available together with comments, explanations and tests. Each submission takes the form of a pull request that is publicly reviewed and tested in order to guarantee that any researcher can re-use it. If you ever replicated computational results from the literature in your research, ReScience is the perfect place to publish this new implementation."*
+
   - [arXiv](http://arxiv.org/) and [HAL](https://hal.inria.fr/) are open archive where you can deposit scholarly documents from all academic fields.
 
-  - [Episciences.org](http://www.episciences.org/) is an overlay publication platform. It complements open archive by adding a peer-review component. Related publication: [https://hal.inria.fr/hal-01002815](https://hal.inria.fr/hal-01002815) [PDF](https://hal.inria.fr/hal-01002815v2/document)
+  - [Episciences.org](http://www.episciences.org/) is an overlay publication platform. It complements open archive by adding a peer-review component. Related publication: [https://hal.inria.fr/hal-01002815](https://hal.inria.fr/hal-01002815) [[pdf]](https://hal.inria.fr/hal-01002815v2/document)
 
   - [pandoc](http://pandoc.org/) is an alternative to Latex for writing scientific paper. It includes an [automatic citations package](https://github.com/jgm/pandoc-citeproc). There is some advantages in my opinion:
 

@@ -25,11 +25,15 @@ Others
 
 {{ {"filter": "science", "quote": "Tout ce qui existe dans l'univers est le fruit du hasard et de la nécessité.", "author": "Démocrite Apocrypha by Jacques Monod", "source": "Le Hasard et la Nécessité", "year": "1970"} | quote }}
 
+{{ {"filter": "other", "quote": "Every generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.", "author": "George Orwell"} | quote }}
+
 {{ {"filter": "other", "quote": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.", "author": "Samuel Beckett"} | quote }}
 
 {{ {"filter": "science", "quote": "C’est bien plus la coutume et l’exemple qui nous persuade, qu’aucune connaissance certaine.", "author": "René Descartes", "source": "Discours de la methode", "year": "1637"} | quote }}
 
 {{ {"filter": "other", "quote": "Les hommes n'ont jamais de remords des choses qu'ils sont dans l'usage de faire.", "author": "Voltaire", "source": "Dialogue du chapon et de la poularde", "year": "1763"} | quote }}
+
+{{ {"filter": "science", "quote": "To every man is given the key to the gates of heaven. The same key opens the gates of hell. And so it is with science.", "author": "Richard Feynman"} | quote }}
 
 {{ {"filter": "science", "quote": "All models are wrong, but some are useful.", "author": "George Box", "year": "1970s"} | quote }}
 
@@ -61,6 +65,8 @@ Others
 
 {{ {"filter": "other", "quote": "We're all in this game together.", "author": "William Styron"} | quote }}
 
+{{ {"filter": "other", "quote": "The only lies for which we are truly punished are those we tell ourselves", "author": "V.S. Naipaul"} | quote }}
+
 {{ {"filter": "other", "quote": "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.", "author": "Anna Quindlen"} | quote }}
 
 {{ {"filter": "other", "quote": "Only someone who is well prepared has the opportunity to improvise.", "author": "Ingmar Bergman"} | quote }}
@@ -70,6 +76,8 @@ Others
 {{ {"filter": "other", "quote": "All you need is love. But a little chocolate now and then doesn't hurt.", "author": "Charles M. Schulz"} | quote }}
 
 {{ {"filter": "other", "quote": "Spoon feeding in the long run teaches us nothing but the shape of the spoon.", "author": "E.M. Forster"} | quote }}
+
+{{ {"filter": "other", "quote": "The problem with doing nothing is not knowing when you are finished.", "author": "Nelson DeMille"} | quote }}
 
 {{ {"filter": "other", "quote": "The world is indeed comic, but the joke is on mankind.", "author": "H.P. Lovecraft"} | quote }}
 

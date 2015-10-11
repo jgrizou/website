@@ -42,7 +42,7 @@ Grade: 99%. Earned with distinction. [[Verified certificate]](https://www.course
 Grade: 95.8%. Earned with distinction. [[Verified certificate]](https://www.coursera.org/verify/SKGM2TQZVH)
 
 - **Interactive Computer Graphics with WebGL**, by Edward Angel, The University of New Mexico on Coursera, 2015.\
-**Ongoing**
+Grade: 88%. Earned with distinction.
 
 - **Interactive 3D Graphics - Creating Virtual Worlds**, by Eric Haines and Gundega Dekena, On Udacity, 2015.\
 **Ongoing**
@@ -57,7 +57,7 @@ Grade: 95.8%. Earned with distinction. [[Verified certificate]](https://www.cour
 **Ongoing**
 
 - **Fractals and Scaling**, by David Feldman, On Complexity Explorer by the Santa Fe Institute, 2015.\
-**Starting in September 2015**
+**Ongoing**
 
 - **Nonlinear Dynamics: Mathematical and Computational Approaches**, by Elizabeth Bradleys, On Complexity Explorer by the Santa Fe Institute, 2015.\
-**Starting in September 2015**
+**Ongoing**

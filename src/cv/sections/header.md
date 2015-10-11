@@ -6,8 +6,10 @@
 
 **GitHub:** [https://github.com/jgrizou](https://github.com/jgrizou)
 
-I am an independent thinker capable of undertaking hard tasks without hesitation. I learn quickly new methodologies and I often put forward innovative ideas.
+<!-- I am an independent thinker capable of undertaking hard tasks without hesitation. I learn quickly new methodologies and I often put forward innovative ideas. -->
 
-I worked on my PhD thesis at [INRIA](http://www.inria.fr/) in the [Flowers Team](http://flowers.inria.fr/) headed by [Pierre-Yves Oudeyer](http://www.pyoudeyer.com/). I was interested in building smarter, more adaptive, human-machine interfaces. I am now moving towards the field of self-organization and complexity.
+I am currently a PostDoc in the [Cronin group](http://www.chem.gla.ac.uk/cronin/). The group study the origins of life from different perspectives. I am particularly interested by the intersection of chemistry, robotics, and AI. We are currently studying [the properties of oil droplets as a function of their chemical composition via an automated evolutionary process](http://www.nature.com/ncomms/2014/141208/ncomms6571/full/ncomms6571.html). In other words, a robot autonomously perform simple chemical experiments, analyses them, and, depending on its previous observations, selects which experiment to perform next.
 
-I am also a maker and an active member of the [Poppy project](https://www.poppy-project.org/), an open-source project providing tools to enable the creative exploration of interactive robots for science, education, and art.
+I worked on [my PhD thesis]({{"/projects/thesis_defense/" | web_path}}), titled “Learning from Unlabeled Interaction Frames”, at [INRIA](http://www.inria.fr/) in the [Flowers Team](http://flowers.inria.fr/) headed by [Pierre-Yves Oudeyer](http://www.pyoudeyer.com/). I was interested in building smarter, more adaptive, human-machine interfaces.
+
+I am also a maker and an active member of the [Poppy project](https://www.poppy-project.org/), an open-source project providing tools to enable the creative exploration of interactive robots for science, education, and art. In 2015, we founded an association called ["Des Robots En Baskets"](https://github.com/desrobotsenbaskets/docs) to promote robotics as a tool for transdisciplinary education at many levels.
