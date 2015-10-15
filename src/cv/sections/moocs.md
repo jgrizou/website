@@ -54,10 +54,13 @@ Grade: 88%. Earned with distinction.
 - **HTML5 Canvas - From Pixels to Animation!**, by James Williams and Cameron Pittman, On Udacity, 2015.
 
 - **Introduction to Complexity**, by Melanie Mitchell and Craig Daniels, On Complexity Explorer by the Santa Fe Institute, 2015.\
-**Ongoing**
+Grade: 97%.
 
 - **Fractals and Scaling**, by David Feldman, On Complexity Explorer by the Santa Fe Institute, 2015.\
 **Ongoing**
 
 - **Nonlinear Dynamics: Mathematical and Computational Approaches**, by Elizabeth Bradleys, On Complexity Explorer by the Santa Fe Institute, 2015.\
 **Ongoing**
+
+- **Introduction to Chemistry: Reactions and Ratios**, by Dorian A. Canelas, On Coursera by the Duke University, 2015.\
+Grade: 97.2%. [[Verified certificate]](https://www.coursera.org/verify/JR2TNFTRUJ)
