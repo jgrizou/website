@@ -1,7 +1,20 @@
 ## Experiences
 
+Oct. 2015 to present
+: **Research Associate** ([Cronin Group](http://www.chem.gla.ac.uk/cronin/), [University of Glasgow](http://www.gla.ac.uk/), Scotland, UK).
+
+    Working at the boundary between chemistry, artificial intelligence and robotics.\
+    Aiming to implement novelty/curiosity driven algorithms for exploring the behaviors chemical entities can exhibit depending on their composition.
+
+June to Sept. 2015
+: **Associational activities** (Bordeaux, France).
+
+    Creation of an association called ["Des Robots En Baskets"](https://github.com/desrobotsenbaskets/docs) to promote robotics as a tool for transdisciplinary education at many levels.\
+    Treasurer of the association.\
+    Development of a [web based simulator for Poppy Ergo Jr](http://poppy-project.github.io/poppy-ergo-jr/simulator/ …), a robot from the Poppy Project for educational purposes.
+
 Oct. 2014 to June 2015
-:   **Postdoctoral Fellow** ([INRIA](http://www.inria.fr/), [FLOWERS team](http://flowers.inria.fr/), France).
+:   **Postdoctoral Fellow** ([FLOWERS team](http://flowers.inria.fr/), [INRIA](http://www.inria.fr/), France).
 
     Finalized our collaboration on [Brain-Computer Interaction]({{ "/projects/self_calibration_bci/" | web_path }}) ([PLOSONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131491)) and Multi-Agent Cooperation.\
     Started work on [legible robot motions]({{ "/projects/legible_motions/" | web_path }}).\
@@ -13,7 +26,7 @@ Sept. 2014
     I visited [Samuel Barrett](http://www.cs.utexas.edu/~sbarrett/) and [Peter Stone](http://www.cs.utexas.edu/~pstone/) for a collaborative work on [ad-hoc teams](http://www.cs.utexas.edu/~pstone/Papers/bib2html/b2hd-AAAI10-adhoc.html).
 
 Oct. 2011 to Sept. 2014
-:   **PhD studies** ([INRIA](http://www.inria.fr/), [FLOWERS team](http://flowers.inria.fr/), France).
+:   **PhD studies** ([FLOWERS team](http://flowers.inria.fr/), [INRIA](http://www.inria.fr/), France).
 
     Developed a novel algorithm for self-calibrated interactive systems.\
     Started three international collaborations (application to [Brain-Computer Interaction]({{ "/projects/self_calibration_bci/" | web_path }}), application to Multi-Agent Cooperation, implication for [Emergentist Semantics]({{ "/projects/coco_game/" | web_path }})).\
