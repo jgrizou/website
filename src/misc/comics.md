@@ -10,6 +10,7 @@ style: Default
 - [Calvin and Hobbes](http://www.gocomics.com/calvinandhobbes) by Bill Watterson
 - [PhD Comics](http://phdcomics.com/) by Jorge Cham
 - [Dilbert](http://dilbert.com/) by Scott Adams
+- [SBMC](http://www.smbc-comics.com/) by Zach Weinersmith
 
 #### Computer Science:
 
