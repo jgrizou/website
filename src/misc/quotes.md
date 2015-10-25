@@ -33,6 +33,8 @@ Others
 
 {{ {"filter": "other", "quote": "Les hommes n'ont jamais de remords des choses qu'ils sont dans l'usage de faire.", "author": "Voltaire", "source": "Dialogue du chapon et de la poularde", "year": "1763"} | quote }}
 
+{{ {"filter": "science", "quote": "I am ignorant and it's killing me.", "author": "Adam Frank", "link": "http://www.npr.org/sections/13.7/2015/06/30/418902790/science-and-the-agony-of-ignorance"} | quote }}
+
 {{ {"filter": "science", "quote": "To every man is given the key to the gates of heaven. The same key opens the gates of hell. And so it is with science.", "author": "Richard Feynman"} | quote }}
 
 {{ {"filter": "science", "quote": "All models are wrong, but some are useful.", "author": "George Box", "year": "1970s"} | quote }}
@@ -52,6 +54,8 @@ Others
 {{ {"filter": "science", "quote": "La recherche de la vérité doit être le but de notre activité; c’est la seule fin qui soit digne d’elle. Sans doute devons nous d’abord nous efforcer de soulager les souffrances humaines, mais pourquoi? Ne pas souffrir, c’est un idéal négatif et qui serait plus sûrement atteint par l’anéantissement du monde.", "author": "Henri Poincaré", "source": "La valeur de la science", "year": "1905"} | quote }}
 
 {{ {"filter": "science", "quote": "We think; biological evolution does not. But when problems are very hard, thinking may not help that much. We may all be relatively blind watchmakers.", "author": "Stuart Kauffman", "source": "At Home in the Universe - p202", "year": "1995"} | quote }}
+
+{{ {"filter": "other", "quote": "The knife-sharp separation of science from other human endeavors like art, politics and spiritual longing is too clean and too abstract to be true or helpful.",  "author": "Adam Frank", "link":"http://www.npr.org/sections/13.7/2009/12/crossroads_real_and_imagined_w.html"} | quote }}
 
 {{ {"filter": "other", "quote": "Life is not a matter of holding good cards, but of playing a poor hand well.", "author": "Robert Louis Stevenson"} | quote }}
 
