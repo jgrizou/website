@@ -66,6 +66,6 @@ Some links to get started:
     * [http://kieranhealy.org/blog/archives/2014/01/23/plain-text/](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 
 
----
+<!-- --- -->
 
-And if you read this far, this might also help: [http://sci-hub.org/](http://sci-hub.org/)
+<!-- And if you read this far, this might also help: [http://sci-hub.org/](http://sci-hub.org/) -->
