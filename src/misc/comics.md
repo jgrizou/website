@@ -11,6 +11,7 @@ style: Default
 - [PhD Comics](http://phdcomics.com/) by Jorge Cham
 - [Dilbert](http://dilbert.com/) by Scott Adams
 - [SBMC](http://www.smbc-comics.com/) by Zach Weinersmith
+- [Commit Strip](http://www.commitstrip.com/)
 
 #### Computer Science:
 
