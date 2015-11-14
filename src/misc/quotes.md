@@ -83,7 +83,7 @@ Others
 
 {{ {"filter": "other", "quote": "The problem with doing nothing is not knowing when you are finished.", "author": "Nelson DeMille"} | quote }}
 
-{{ {"filter": "other", "quote": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."", "author": "Zig Ziglar"} | quote }}
+{{ {"filter": "other", "quote": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.", "author": "Zig Ziglar"} | quote }}
 
 {{ {"filter": "other", "quote": "The world is indeed comic, but the joke is on mankind.", "author": "H.P. Lovecraft"} | quote }}
 

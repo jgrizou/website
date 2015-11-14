@@ -65,7 +65,9 @@ Some links to get started:
     * [http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
     * [http://kieranhealy.org/blog/archives/2014/01/23/plain-text/](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 
-  - Unrelated but some best practice for Python: https://gist.github.com/sloria/7001839
+---
+
+Unrelated but some best practice for Python: [https://gist.github.com/sloria/7001839](https://gist.github.com/sloria/7001839)
 
 
 <!-- --- -->
