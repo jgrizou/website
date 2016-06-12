@@ -41,7 +41,11 @@ Others
 
 {{ {"filter": "science", "quote": "Children have real understanding only of that which they invent themselves, and each time that we try to teach them something too quickly, we keep them from reinventing it themselves.", "author": "Jean Piaget"} | quote }}
 
+{{ {"filter": "other", "quote": "Children learn more from what you are than what you teach.", "author": ". W.E.B. Du Bois"} | quote }}
+
 {{ {"filter": "other", "quote": "If we wait for the moment when everything, absolutely everything is ready, we shall never begin.", "author": "Ivan Turgenev"} | quote }}
+
+{{ {"filter": "science", "quote": "I’ll give you this: we’re firmly on our way to being safer than a drunk driver.", "author": "Andrew Ng", "link": "http://www.wired.com/brandlab/2015/05/andrew-ng-deep-learning-mandate-humans-not-just-machines/"} | quote }}
 
 {{ {"filter": "science", "quote": "Because instruments determine what can be done, they also determine to some extent what can be thought.", "author": "Albert van Helden and Thomas Hankins", "year": "1994"} | quote }}
 
@@ -103,9 +107,11 @@ Others
 
 {{ {"filter": "other", "quote": "Life appears to me too short to be spent in nursing animosity or registering wrongs.", "author": "Charlotte Brontë"} | quote }}
 
+{{ {"filter": "other", "quote": "Nobody said not to go.", "author": "Emily Hahn"} | quote }}
+
 {{ {"filter": "other", "quote": "When I discover who I am, I’ll be free.", "author": "Ralph Ellison"} | quote }}
 
-{{ {"filter": "other", "quote": "Nobody said not to go.", "author": "Emily Hahn"} | quote }}
+{{ {"filter": "other", "quote": "Never be afraid to sit awhile and think.", "author": "Lorraine Hansberry"} | quote }}
 
 {{ {"filter": "other", "quote": "It's discouraging to think how many people are shocked by honesty and how few by deceit.", "author": "Noël Coward"} | quote }}
 

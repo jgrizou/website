@@ -3,7 +3,7 @@ style: GridItem
 additional_class: "research"
 link: {{ "" | relative_path | web_path }}
 image_src: {{ "thumbnail.jpg" | relative_path | web_path }}
-ordering: 1
+ordering: 20
 ---
 
 

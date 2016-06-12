@@ -3,15 +3,9 @@
 Oct. 2015 to present
 : **Research Associate** ([Cronin Group](http://www.chem.gla.ac.uk/cronin/), [University of Glasgow](http://www.gla.ac.uk/), Scotland, UK).
 
-    Working at the boundary between chemistry, artificial intelligence and robotics.\
-    Aiming to implement novelty/curiosity driven algorithms for exploring the behaviors chemical entities can exhibit depending on their composition.
+    Leading a team of 7 scientist (2 post-doc, 4 PhD student, 1 intern) working at the boundary of chemistry, artificial intelligence and robotics.\
+    Aiming to implement novelty/curiosity driven algorithms for exploring the behaviors physicochemical systems can exhibit depending on their composition.
 
-June to Sept. 2015
-: **Associational activities** (Bordeaux, France).
-
-    Creation of an association called ["Des Robots En Baskets"](https://github.com/desrobotsenbaskets/docs) to promote robotics as a tool for transdisciplinary education at many levels.\
-    Treasurer of the association.\
-    Development of a [web based simulator for Poppy Ergo Jr](http://poppy-project.github.io/poppy-ergo-jr/simulator/ …), a robot from the Poppy Project for educational purposes.
 
 Oct. 2014 to June 2015
 :   **Postdoctoral Fellow** ([FLOWERS team](http://flowers.inria.fr/), [INRIA](http://www.inria.fr/), France).
@@ -33,13 +27,15 @@ Oct. 2011 to Sept. 2014
     Participated in international conferences and workshops.\
     Supervised Master and Internship students.\
     *Advisors:* [Manuel Lopes](http://flowers.inria.fr/mlopes) and [Pierre-Yves Oudeyer](http://www.pyoudeyer.com/).\
-    *Defense:* [http://jgrizou.com/projects/thesis_defense/](http://jgrizou.com/projects/thesis_defense/)
+    *Defense:* [{{ "/projects/thesis_defense/" | web_path }}]({{ "/projects/thesis_defense/" | web_path }}).\
+    *Award:* [{{ "/projects/prix_le_monde/" | web_path }}]({{ "/projects/prix_le_monde/" | web_path }}).
 
 Feb. to Aug. 2011
 :   **Master's thesis** ([BIOROB](http://biorob.epfl.ch/), [EPFL](http://www.epfl.ch/), Switzerland).
 
     Modeling the salamander swimming gate with virtual muscles on a robotic platform ([http://biorob.epfl.ch/grizou](http://biorob.epfl.ch/grizou)).\
-    *Advisors:* K. Karakasiliotis, J. Knüsel, and [A.J. Ijspeert](http://biorob.epfl.ch/page-36382.html).
+    *Advisors:* K. Karakasiliotis, J. Knüsel, and [A.J. Ijspeert](http://biorob.epfl.ch/page-36382.html).\
+    *Award:* Best Master's Thesis.
 
 Jul. to Sept. 2010
 :   **Research intership** ([BioCircuits Institute](http://biocircuits.ucsd.edu/), [UCSD](http://www.ucsd.edu/), USA).

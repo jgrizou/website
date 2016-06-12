@@ -2,8 +2,7 @@
 style: Default
 ---
 
-## Thesis Defense
-
+## Prix Le Monde de la Recherche Universitaire 2015
 
 <div class="container">
 <div class="row">

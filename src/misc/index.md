@@ -12,3 +12,4 @@ Just referencing a bunch of stuff I might want to find again at some point. Migh
 - [Press](press.html)
 - [Science](science.html)
 - [Me in the press](meinthepress.html)
+- [Quotes](quotes.html)

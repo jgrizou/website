@@ -4,7 +4,6 @@ navbar:
   home: true
 ---
 
-
 <div class="container">
 <div class="row">
 
@@ -12,9 +11,9 @@ navbar:
 
 ## Current position
 
-I am a PostDoc in the [Cronin group](http://www.chem.gla.ac.uk/cronin/). The group study the origins of life from different perspectives. I am particularly interested by the intersection of chemistry, robotics, and AI.
+I am a PostDoc within the [Cronin group](http://www.chem.gla.ac.uk/cronin/). The group study the origins of life from different perspectives. I am particularly interested by the intersection of chemistry, robotics, and AI.
 
-The general objective of this research is to combine, develop, and evaluate algorithms for exploration of complex physicochemical systems. We take inspiration from the field of developmental robotics, with concepts such as goal babbling, intrinsic motivation, and maturational constraint, and apply them to the exploration of complex systems in the real world. Such systems cannot be simulated in practical times and experiments must thus be performed on the real system – raising a number of interesting challenges.  
+I am leading the Chemobots team that comprise 2 PostDoc, 4 PhD students, and 1 intern. Our objective is to combine, develop, and evaluate algorithms for exploration of complex physicochemical systems. Such systems cannot be simulated in practical times and experiments must thus be performed on the real system – raising a number of interesting challenges. We take inspiration from the field of developmental robotics, with concepts such as goal babbling, intrinsic motivation, and maturational constraint, and apply them to the exploration of complex systems in the real world.
 
 We recently demonstrated the use of robotics and artificial intelligence as tools to explore oils in water systems. [A robot equipped with an evolutionary algorithm was able to optimize efficiently oils ratio to elicit various droplet physical behaviors, such as movement, division, and vibration]((http://www.nature.com/ncomms/2014/141208/ncomms6571/full/ncomms6571.html)).
 

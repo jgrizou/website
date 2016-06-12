@@ -12,6 +12,9 @@ style: Default
 
 #### History of Science and Technology
 
+- [MIT Leg Lab](https://www.youtube.com/watch?v=XFXj81mvInc)
+- [Robotics in the 1980's](https://www.youtube.com/watch?v=ciaarZEW9vA)
+- [Ping Pong Playing Robot (1987)](https://www.youtube.com/watch?v=TDDjH3P6yqI)
 - [Claude Shannon demonstrates machine learning](https://www.youtube.com/watch?v=vPKkXibQXGA)
 - [La maison de l'an 2000](http://www.ina.fr/video/CAA7901376201/la-maison-de-l-an-2000-video.html)
 
