@@ -51,7 +51,7 @@ I am highly involved in **[Poppy](https://www.poppy-project.org/)**, an open-sou
 
 #### Parametrizable robots
 
-I have been developing open-source libraries for creating parametrizable robots: [[robotis-scad]](https://github.com/jgrizou/robotis-scad) and [[segment-scad]](https://github.com/jgrizou/segment-scad)
+I have been developing open-source libraries for creating parametrizable robots: [[lego-scad]](https://github.com/jgrizou/lego-scad), [[raspberry-scad]](https://github.com/jgrizou/raspberry-scad), [[robotis-scad]](https://github.com/jgrizou/robotis-scad), and [[segment-scad]](https://github.com/jgrizou/segment-scad)
 
 That has been use for the creation of the following robots:
 

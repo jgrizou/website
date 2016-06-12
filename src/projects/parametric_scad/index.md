@@ -16,6 +16,8 @@ Poppy mini creatures are built from [XL320 motors](http://support.robotis.com/en
 
 ### Libraries:
 
+- [[lego-scad]](https://github.com/jgrizou/lego-scad),
+- [[raspberry-scad]](https://github.com/jgrizou/raspberry-scad)
 - [[robotis-scad]](https://github.com/jgrizou/robotis-scad)
 - [[segment-scad]](https://github.com/jgrizou/segment-scad)
 
