@@ -29,6 +29,10 @@ li {
   background: #E6F8E0; /* light green */
 }
 
+.panel-danger .panel-body {
+  background: #FFE6E6; /* light coral */
+}
+
 .panel-heading a:hover {
     color: inherit;
 }
