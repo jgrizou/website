@@ -61,22 +61,25 @@ That has been use for the creation of the following robots:
 - [[poppy-4wheels-mini]](https://github.com/poppy-project/poppy-4wheels-mini)
 - [[poppy-dragster-mini]](https://github.com/poppy-project/poppy-dragster-mini)
 
-The following robots also started with openscad design:
+The following robots also started with [openscad](http://www.openscad.org/) design:
 
 - [[poppy-ergo-jr]](https://github.com/poppy-project/poppy-ergo-jr)
 - [[poppy-ergo-starter]](https://github.com/poppy-project/poppy-ergo-starter)
-The latest version are now using [an onshape design](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) by [Matthieu Lapeyre](https://github.com/matthieu-lapeyre)]. See the hardware/README.md of each repo to find back the opensacad version.
+The latest version are now using [an onshape design](https://www.onshape.com/) by [Matthieu Lapeyre](https://github.com/matthieu-lapeyre). See the hardware/README.md file of each repo to find back the openscad version.
 
-[Feel free to contribute!](https://forum.poppy-project.org/t/cfc-extending-the-poppy-mini-family-we-need-your-help/1346)
+See the [project page]({{ "/projects/parametric_scad/" | web_path }})
 
 #### Online visualisation
 
-I started developing a web visualisation for the [ErgoJr robot](https://github.com/poppy-project/poppy-ergo-jr) to allow the community to discover our tools without access to a physical robot. The visualisation has since been greatly extended and integrated within the Poppy ecosystem by [Théo Segonds](https://github.com/show0k) and [Damien Caselli](https://github.com/damiencaselli). It is available online at [http://simu.poppy-project.org/poppy-ergo-jr/](http://simu.poppy-project.org/poppy-ergo-jr/)
+I started developing a web visualisation for the [ErgoJr robot](https://github.com/poppy-project/poppy-ergo-jr) to allow the community to discover our tools without access to a physical robot. The visualisation has since been greatly extended and integrated within the Poppy ecosystem by [Théo Segonds](https://github.com/show0k) and [Damien Caselli](https://github.com/damiencaselli).
+
+It is available online at [http://simu.poppy-project.org/poppy-ergo-jr/](http://simu.poppy-project.org/poppy-ergo-jr/)
 
 #### Soft robot
 
 I developed a [soft connector for XL320 based robot](https://github.com/poppy-project/poppy-soft-connector), making it easy and cheap to design and include soft elements in Poppy creatures. I designed a [Starfish robot](https://github.com/poppy-project/poppy-soft-starfish) to showcase the use of this connector. More information on the Poppy forum: [https://forum.poppy-project.org/t/poppy-soft-connector/2152](https://forum.poppy-project.org/t/poppy-soft-connector/2152)
 
+See the [project page]({{ "/projects/soft_connector/" | web_path }})
 
   </div>
 </div>
