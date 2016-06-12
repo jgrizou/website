@@ -68,8 +68,3 @@ Some links to get started:
 ---
 
 Unrelated but some best practice for Python: [https://gist.github.com/sloria/7001839](https://gist.github.com/sloria/7001839)
-
-
-<!-- --- -->
-
-<!-- And if you read this far, this might also help: [http://sci-hub.org/](http://sci-hub.org/) -->
