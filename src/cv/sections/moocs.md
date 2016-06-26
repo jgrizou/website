@@ -44,8 +44,7 @@ Grade: 95.8%. Earned with distinction. [[Verified certificate]](https://www.cour
 - **Interactive Computer Graphics with WebGL**, by Edward Angel, The University of New Mexico on Coursera, 2015.\
 Grade: 88%. Earned with distinction.
 
-- **Interactive 3D Graphics - Creating Virtual Worlds**, by Eric Haines and Gundega Dekena, On Udacity, 2015.\
-**Ongoing**
+- **Interactive 3D Graphics - Creating Virtual Worlds**, by Eric Haines and Gundega Dekena, On Udacity, 2015.
 
 - **JavaScript Design Patterns - Organizing Code in a Disorganized World**, by Ben Jaffe, On Udacity, 2015.
 
@@ -55,12 +54,6 @@ Grade: 88%. Earned with distinction.
 
 - **Introduction to Complexity**, by Melanie Mitchell and Craig Daniels, On Complexity Explorer by the Santa Fe Institute, 2015.\
 Grade: 97%.
-
-- **Fractals and Scaling**, by David Feldman, On Complexity Explorer by the Santa Fe Institute, 2015.\
-**Ongoing**
-
-- **Nonlinear Dynamics: Mathematical and Computational Approaches**, by Elizabeth Bradleys, On Complexity Explorer by the Santa Fe Institute, 2015.\
-**Ongoing**
 
 - **Introduction to Chemistry: Reactions and Ratios**, by Dorian A. Canelas, On Coursera by the Duke University, 2015.\
 Grade: 97.2%. [[Verified certificate]](https://www.coursera.org/verify/JR2TNFTRUJ)

@@ -13,7 +13,7 @@ style: Default
 
 </div>
 
-<div class="col-sm-8 col-md-8">
+<div class="col-sm-4 col-md-4">
 
 I received the ''Prix Le Monde de la Recherche Universitaire'' 2015 for my thesis work. Each year, this price is awarded to 5 young French scientists across all fields of science. [Cédric Villani](http://cedricvillani.org/) was chairing the jury.
 
