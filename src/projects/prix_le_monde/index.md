@@ -21,7 +21,7 @@ I received the ''Prix Le Monde de la Recherche Universitaire'' 2015 for my thesi
 
 During my Phd studies, I investigated how a machine can be taught a new task from unlabeled human instructions, which is without knowing beforehand how to associate the human communicative signals with their meanings. I applied my work in the field of brain machine interfaces.
 
-**Related projects:** [[thesis_defense]]({{ "/projects/thesis_defense/" | web_path }}), [[self_calibration_bci]({{ "/projects/self_calibration_bci/" | web_path }})] and [[learning_from_unlabelled_instructions]]({{ "/projects/learning_from_unlabelled_instructions/" | web_path }})
+**Related projects:** [[thesis_defense]]({{ "/projects/thesis_defense/" | web_path }}), [[self_calibration_bci]]({{ "/projects/self_calibration_bci/" | web_path }}) and [[learning_from_unlabelled_instructions]]({{ "/projects/learning_from_unlabelled_instructions/" | web_path }})
 
 A book featuring a short summary of each laureate will be published by the end of 2016.
 
