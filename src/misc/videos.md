@@ -10,6 +10,11 @@ style: Default
 - [Peut-on comprendre d’où provient l’efficacité des mathématiques en physique ?](https://www.youtube.com/watch?v=YQMhrVSR6X0)
 - [La thermodynamique de l'évolution](https://www.youtube.com/watch?v=6lNz5vmKEFA)
 
+#### Makers
+
+- Les cinglés de l'informatique [[1]](https://www.youtube.com/watch?v=dOakyAhqiVY) [[2]](https://www.youtube.com/watch?v=zywPwbQqshY) [[3]](https://www.youtube.com/watch?v=ySM9m9o4pa8)
+- [Fais-le toi-même](https://www.youtube.com/watch?v=9lHkFzlaOQM)
+
 #### History of Science and Technology
 
 - [MIT Leg Lab](https://www.youtube.com/watch?v=XFXj81mvInc)
