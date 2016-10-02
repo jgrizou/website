@@ -64,6 +64,7 @@ The following robots also started with [openscad](http://www.openscad.org/) desi
 
 - [[poppy-ergo-jr]](https://github.com/poppy-project/poppy-ergo-jr)
 - [[poppy-ergo-starter]](https://github.com/poppy-project/poppy-ergo-starter)
+
 The latest version are now using [an onshape design](https://www.onshape.com/) by [Matthieu Lapeyre](https://github.com/matthieu-lapeyre). See the hardware/README.md file of each repo to find back the openscad version.
 
 See the [project page]({{ "/projects/parametric_scad/" | web_path }})

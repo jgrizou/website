@@ -36,6 +36,8 @@ Some links to get started:
 
   - [figshare](http://figshare.com/) is a place to store you big data. Unlimited public space for free.
 
+  - [Academic Torrents](http://academictorrents.com/) is a distributed system for sharing enormous datasets.
+
   - [jupyter](https://jupyter.org/) is the follow up of [IPython](http://ipython.org/). It extend the now famous [interactive ipython notebooks](http://ipython.org/notebook.html) to many other languages. [Try it here](https://try.jupyter.org/).
 
   - [SageMathCloud](https://cloud.sagemath.com/) is a promising way to share tutorial examples of your work, ready to be forked and use by other. Its a kind of virtual machine featuring [SageMath](http://www.sagemath.org/), Python, LaTeX, and terminals in your browser. You can use jupyter notebooks too.

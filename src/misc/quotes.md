@@ -39,11 +39,15 @@ Others
 
 {{ {"filter": "science", "quote": "All models are wrong, but some are useful.", "author": "George Box", "year": "1970s"} | quote }}
 
+{{ {"filter": "science", "quote": "The history of science has been distorted by a longstanding conviction that correct theories about nature are always the most elegant ones.", "author": "Philip Ball", "link": "http://www.theatlantic.com/science/archive/2016/08/occams-razor/495332/"} | quote }}
+
 {{ {"filter": "science", "quote": "Children have real understanding only of that which they invent themselves, and each time that we try to teach them something too quickly, we keep them from reinventing it themselves.", "author": "Jean Piaget"} | quote }}
 
 {{ {"filter": "other", "quote": "Children learn more from what you are than what you teach.", "author": ". W.E.B. Du Bois"} | quote }}
 
 {{ {"filter": "other", "quote": "If we wait for the moment when everything, absolutely everything is ready, we shall never begin.", "author": "Ivan Turgenev"} | quote }}
+
+{{ {"filter": "other", "quote": "The moment you put a deadline on your dream,it becomes a goal.", "author": "Harsha Bhogle"} | quote }}
 
 {{ {"filter": "science", "quote": "I’ll give you this: we’re firmly on our way to being safer than a drunk driver.", "author": "Andrew Ng", "link": "http://www.wired.com/brandlab/2015/05/andrew-ng-deep-learning-mandate-humans-not-just-machines/"} | quote }}
 

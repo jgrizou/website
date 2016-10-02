@@ -22,6 +22,7 @@ style: Default
 - [Ping Pong Playing Robot (1987)](https://www.youtube.com/watch?v=TDDjH3P6yqI)
 - [Claude Shannon demonstrates machine learning](https://www.youtube.com/watch?v=vPKkXibQXGA)
 - [La maison de l'an 2000](http://www.ina.fr/video/CAA7901376201/la-maison-de-l-an-2000-video.html)
+- [Karl Sims - Evolved Virtual Creatures](https://www.youtube.com/watch?v=JBgG_VSP7f8)
 
 #### Various
 
