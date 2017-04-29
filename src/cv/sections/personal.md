@@ -1,5 +1,7 @@
 ## Personal Activities
 
+- Co-Founder at [Pollen Roboitcs](http://pollen-robotics.com/en/)
+
 - I am an active member of the [Poppy project](https://www.poppy-project.org/): participating in weekly meetings, maintaining the [poppy-openscad library](https://github.com/jgrizou/robotis-scad), and helping the community on the [forum](https://forum.poppy-project.org/).
 
 - I am a founding member of an association called ["Des Robots En Baskets"](https://github.com/desrobotsenbaskets/docs) - promoting robotics as a tool for transdisciplinary education at many levels.

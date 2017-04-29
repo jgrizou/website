@@ -19,12 +19,10 @@ navbar:
   - dropdown:
       display: More
       item:
-        - link: {{ "/blog/open_science" | web_path}}
-          display: Open Science
-        - link: {{ "/blog/p_values" | web_path}}
-          display: P-Values
-        - link: {{ "/misc" | web_path}}
-          display: Misc
+        - link: http://forum.jgrizou.com/
+          display: Forum
+        - link: {{ "/quotes" | web_path}}
+          display: Quotes
         - link: {{ "/cv" | web_path}}
           display: CV
 

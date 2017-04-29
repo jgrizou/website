@@ -16,4 +16,4 @@ Our experiment consists of a robot reaching for and pressing a button. The human
 
 ### Related Publications
 
-{{ ["stulp2015facilitating"] | pub_list}}
+{{ ["stulp2015facilitating", "busch2017learning"] | pub_list}}

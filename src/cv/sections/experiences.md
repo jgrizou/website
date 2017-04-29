@@ -3,8 +3,9 @@
 Oct. 2015 to present
 : **Research Associate** ([Cronin Group](http://www.chem.gla.ac.uk/cronin/), [University of Glasgow](http://www.gla.ac.uk/), Scotland, UK).
 
-    Leading a team of 7 scientist (2 post-doc, 4 PhD student, 1 intern) working at the boundary of chemistry, artificial intelligence and robotics.\
-    Aiming to implement novelty/curiosity driven algorithms for exploring the behaviors physicochemical systems can exhibit depending on their composition.
+    I am in charge of the Chemobot Team (4 post-docs, 3 PhD students, 1 Intern).\
+    We explore how robots and algorithms can become tools for the exploration and discovery of complex physicochemical systems. Under the direct supervision of Prof. Lee Cronin, my responsibilities are to: set-up, coordinate and meet the team agenda, supervise, guide and support team members, present and advertise work to stakeholders and visitors, paper and grant writing, paper review.\
+    In parallel, I pursue my own research project that required building a new robotic platform (6x more efficient than previous) to test various algorithms to explore the range of behaviours that can exhibit oil-in-water droplet systems.
 
 
 Oct. 2014 to June 2015
