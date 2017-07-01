@@ -9,6 +9,20 @@ navbar:
 
 <div class="col-sm-8 col-md-8">
 
+<div class="panel panel-danger">
+  <div class="panel-heading">
+  <a class="panel-title btn-block" href="{{ "/projects/prix_le_monde/" | web_path }}"><h3 class="panel-title">Tutorial on developmental robotics in a chemistry lab</h3> </a>
+  </div>
+  <div class="panel-body panel-body">
+
+I am organizing with Laurie J. Points and Lee Cronin, the first tutorial on smart chemical robots and how we apply methods from developmental robotics to the exploration of physicochemical systems in the real world.
+
+[[More information]](https://croningp.github.io/tutorial_icdl_epirob_2017/)
+
+
+  </div>
+</div>
+
 ## Current positions
 
 I am a PostDoc within the [Cronin group](http://www.chem.gla.ac.uk/cronin/). I am in charge of the Chemobot Team (4 post-docs, 3 PhD students, 1 Intern). We explore how robots and algorithms can become tools for the exploration and discovery of complex physicochemical systems. We take inspiration from the field of developmental robotics, with concepts such as goal babbling, intrinsic motivation, and maturational constraint, and apply them to the exploration of complex systems in the real world.
@@ -24,7 +38,7 @@ I am a long time maker and an active member of the [Poppy project](https://www.p
 ### Highlights
 
 
-<div class="panel panel-danger">
+<div class="panel panel-info">
   <div class="panel-heading">
   <a class="panel-title btn-block" href="{{ "/projects/prix_le_monde/" | web_path }}"><h3 class="panel-title">Prix Le Monde de la Recherche Universitaire 2015</h3> </a>
   </div>

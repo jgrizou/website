@@ -22,14 +22,15 @@ Others
 
 <div class="grid">
 
-
-{{ {"filter": "science", "quote": "Tout ce qui existe dans l'univers est le fruit du hasard et de la nécessité.", "author": "Démocrite Apocrypha by Jacques Monod", "source": "Le Hasard et la Nécessité", "year": "1970"} | quote }}
-
-{{ {"filter": "other", "quote": "Every generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.", "author": "George Orwell"} | quote }}
+{{ {"filter": "other", "quote": "We are our choices.", "author": "Jean-Paul Sartre"} | quote }}
 
 {{ {"filter": "other", "quote": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.", "author": "Samuel Beckett"} | quote }}
 
+{{ {"filter": "other", "quote": "Every generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.", "author": "George Orwell"} | quote }}
+
 {{ {"filter": "science", "quote": "C’est bien plus la coutume et l’exemple qui nous persuade, qu’aucune connaissance certaine.", "author": "René Descartes", "source": "Discours de la methode", "year": "1637"} | quote }}
+
+{{ {"filter": "science", "quote": "Tout ce qui existe dans l'univers est le fruit du hasard et de la nécessité.", "author": "Démocrite Apocrypha by Jacques Monod", "source": "Le Hasard et la Nécessité", "year": "1970"} | quote }}
 
 {{ {"filter": "other", "quote": "Les hommes n'ont jamais de remords des choses qu'ils sont dans l'usage de faire.", "author": "Voltaire", "source": "Dialogue du chapon et de la poularde", "year": "1763"} | quote }}
 
