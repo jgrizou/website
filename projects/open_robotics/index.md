@@ -108,12 +108,12 @@ _Websites:_ [[Poppy Project]](https://www.poppy-project.org/en/) [[Poppy Educati
 
 Between 2012 and 2016, as part of founding team, I had an active role in the development of the project. I was especially active on the [forum](https://forum.poppy-project.org/) to develop the community. I built, and contributed to, several tools and robots.
 
-**First ErgoJr** - I build the first version of the ErgoJr robot. In the quest of modular robot design, I developed a set of OpenScad libraries to develop parametric robotic parts using code. Full details on the [dedicated project page](../parametric_parts).
+**First ErgoJr** - I build the [first version](https://twitter.com/jgrizou/status/563646210058502145) of the ErgoJr robot. In the quest of modular robot design, I developed a set of OpenScad libraries to develop parametric robotic parts using code. Full details on the [dedicated project page](../parametric_parts).
 
 <div class="container">
   <div class="row align-items-center justify-content-center">
     <div class="col-md">
-      {% include image.html src='img/poppy_ergojr_jumping.gif' sub="The first Poppy ErgoJr robot jumping."%}
+      {% include image.html src='img/poppy_first_ergo.jpg' sub="The first Poppy ErgoJr robot jumping."%}
     </div>
     <div class="col-md">
       {% include image.html src='../parametric_parts/img/poppy_mini_familly.png' sub="Robots designed by code."%}

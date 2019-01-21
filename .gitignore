@@ -1,7 +1,1 @@
-bin
-tmp
-*__pycache__*
-panzer/template
-template_src/include
-build.log
 _site
