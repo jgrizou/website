@@ -1,0 +1,36 @@
+.fa-circle{
+  color: white;
+}
+
+.fa-github {
+  color: #202020;
+}
+
+.fa-twitter {
+  color: #202020;
+}
+
+.fa-envelope {
+  color: #202020;
+}
+
+.fa-linkedin {
+  color: #202020;
+}
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+.sidebar-nav-item.active,
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  opacity: 1;
+}

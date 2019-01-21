@@ -1,8 +1,0 @@
-CV:
-  html:
-    template: cv.html
-
-
-CVstandalone:
-  html:
-    template: cv_standalone.html

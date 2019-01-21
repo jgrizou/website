@@ -1,0 +1,28 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+      {% for link in site.navbar-links %}
+            <a id='sidebar-nav' class="sidebar-nav-item{% if page.url == link[1] %} active{% endif %}" href="{{ site.baseurl }}{{ link[1] }}">{{ link[0] }}</a>
+      {% endfor %}
+  </nav>
+
+  <div class="sidebar-item">
+    {% include social-link.html %}
+  </div>
+
+  <div class="sidebar-item">
+    <p>
+      Last updated on {{ site.time | date: '%d-%m-%Y' }}
+    </p>
+  </div>
+
+
+</div>

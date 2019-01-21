@@ -1,0 +1,30 @@
+# About/contact
+author:
+  name:              Jonathan Grizou
+  url:               http://jgrizou.com/
+  email:             jonathan.grizou@gmail.com
+
+# Setup
+title:               Jonathan Grizou
+tagline:             We are our choices
+description:         'Research and personal opinions'
+url:                 http://jgrizou.com/
+baseurl:             ''
+paginate:            5
+paginate_path:       '/blog/page:num/'
+
+navbar-links:
+  Home:              '/'
+  Projects:          '/projects/'
+  Publications:      '/publications/'
+  # Thoughts:          '/thoughts/'
+  # Quotes:            '/quotes/'
+  CV / About:        '/about/'
+
+
+# Permalinks
+permalink:           pretty
+
+#plugins
+plugins:
+  - jekyll-paginate
