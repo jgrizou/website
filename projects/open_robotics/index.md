@@ -242,7 +242,7 @@ The team took on another challenge to design a very cheap (<2$ in parts) educati
     {% include youtube.html id='fZtLp7vPts0' sub="Promotional video of Robot Labo."%}
     </div>
     <div class="col-md">
-    {% include image.html src='http://robotlabo.nathan.fr/images/presentation/coffret-robot-labo.png' col="col-md-8" sub="Packaging of Robot Labo."%}
+    {% include image.html src='img/pollen_robot_labo.png' col="col-md-8" sub="Packaging of Robot Labo."%}
     </div>
   </div>
 </div>
