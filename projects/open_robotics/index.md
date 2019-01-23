@@ -126,7 +126,7 @@ Between 2012 and 2016, as part of founding team, I had an active role in the dev
 <div class="container">
   <div class="row align-items-center justify-content-center">
     <div class="col-md">
-      {% include image.html src='img/poppy_visu.png' sub="ErgoJr in the browser."%}
+      {% include youtube.html id='Hl0-hBIGIPw' sub="Demonstration of the control of ErgoJr in the browser via Python."%}
     </div>
     <div class="col-md">
       {% include youtube.html id='T9FwFOBoz7Y' sub="Pierre Rouanet demo the link between the physical and the simulated robot."%}

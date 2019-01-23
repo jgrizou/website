@@ -14,7 +14,7 @@ layout: default
 1. [Ad Hoc Teamwork](adhoc_team) (2015)
 1. [Co-construction of interaction protocols in humans](coco_game) (2014)
 1. [Study of spontaneous exploration in humans](human_exploration) (2014)
-1. [Master's Thesis - Salamander robot](https://biorob.epfl.ch/grizou) (2011)
+1. [Master's Thesis - Salamander robot](salamander) (2011)
 1. [Internship - Active learning using SVMs](active_learning) (2010)
 
 {% include anchor.html id="robots" %}
