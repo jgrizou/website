@@ -35,8 +35,8 @@ I experiment writing essays:
 
 -->
 
----
+<!-- ---
 
 <div align="center">
   {% include sitemap.html %}
-</div>
+</div> -->

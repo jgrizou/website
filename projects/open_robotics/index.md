@@ -199,7 +199,7 @@ The [Dropfactory robot](https://github.com/croningp/dropfactory) is a great exam
 
 {% include image.html src='img/cronin_dropfactory.gif' sub="Open source laboratory robot I developed."%}
 
-I developed this robot to undertake [research on the efficiency of curious algorithm on the exploration of Chemical systems]('../chemobot#dropfactory'). Dropfactory can perform 300 droplet experiments a day in full autonomy (each experiment needs recording of 1m30s). Compared to previous robots, this is a 6-fold improvement and a major leap in reliability. This robot performed more than 20k droplet experiments while I worked in the Cronin group and routinely functioned for 12 hours per day.
+I developed this robot to undertake [research on the efficiency of curious algorithm on the exploration of Chemical systems](../chemobot#dropfactory). Dropfactory can perform 300 droplet experiments a day in full autonomy (each experiment needs recording of 1m30s). Compared to previous robots, this is a 6-fold improvement and a major leap in reliability. This robot performed more than 20k droplet experiments while I worked in the Cronin group and routinely functioned for 12 hours per day.
 
 {% include anchor.html id="start-up" %}
 ### Startup - Pollen Robotics and Luos
@@ -262,7 +262,7 @@ I voluntary departed from Pollen Robotics in 2018 following a pivot. This pivot 
 
 ### Personal Projects
 
-Personal projects are listed on the project page, under the ["Stuff I built"]({{ site.baseurl}}/projects#robot) section.
+Personal projects are listed on the project page, under the ["Stuff I built"](../#robot) section.
 
 <div align="center">
   <a href="#">[Back To Top]</a>

@@ -61,7 +61,7 @@ The team was composed of Lee Cronin (PI), Jonathan Grizou (me), Abhishek Sharma,
 
 The main challenge resided in a good communication between team members. Chemists had to understand the limitation of computers in making sense of data, as well as the limitation of robots in manipulating things. Computer scientists (me above all) had to understand that chemistry is hard, requires time, and that not everything can be created at will. The team was fantastic at sharing their respective constraints which is the main factor of success in the projects we have undertaken.
 
-As the first trained roboticist to join the group, I also took care setting up a culture of AI and robot building, as well as developing the right tools for chemists to use simply, safely, and robustly. These tools are available on the [group GitHub account](https://github.com/croningp) and further described on [this page]({{ site.baseurl }}/projects/open_robotics/#laboratory-robotics).
+As the first trained roboticist to join the group, I also took care setting up a culture of AI and robot building, as well as developing the right tools for chemists to use simply, safely, and robustly. These tools are available on the [group GitHub account](https://github.com/croningp) and further described on [this page](../open_robotics/#laboratory-robotics).
 
 ## Projects
 

@@ -19,4 +19,3 @@ Paper with Samuel Barrett, Peter Stone, Manuel Lopes.
 [[pdf]](https://docs.google.com/viewer?url=https://github.com/jgrizou/adhoc_com/releases/download/final/grizou2016collaboration.pdf)
 [[slides]](https://docs.google.com/viewer?url=https://github.com/jgrizou/adhoc_com/releases/download/final/ALA_2016.pdf)
 [[code]](https://github.com/jgrizou/adhoc_com)  
-[[project]]({{ site.baseurl }}/projects/adhoc_team)

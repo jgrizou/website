@@ -129,7 +129,7 @@ In later studies, we have developed a new uncertainty measure taking into accoun
 {% include anchor.html id="humans" %}
 ### Can human solve this problem?
 
-Inspired by the above results, we devised an experimental setup to investigate the processes used by humans to negotiate a protocol of interaction when they do not already share one. More information on the [dedicated project page]({{ site.baseurl }}/projects/coco_game).
+Inspired by the above results, we devised an experimental setup to investigate the processes used by humans to negotiate a protocol of interaction when they do not already share one. More information on the [dedicated project page](../coco_game).
 
 ## Awards
 

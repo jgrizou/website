@@ -8,7 +8,7 @@ I designed a set of libraries in OpenScad allowing to quickly design 3D printabl
 
 {% include image.html src='../open_robotics/img/poppy_ergojr_jumping.gif' col='col-lg-10' sub='The first ErgoJr robot, designed from parametric parts.'%}
 
-Poppy creatures are built from [XL320 motors](http://support.robotis.com/en/product/dynamixel/xl-series/xl-320.htm) from [Robotis](http://en.robotis.com/index/). Motors are linked together with [parametrable frames](https://github.com/jgrizou/robotis-scad) that I designed with [OpenScad](http://www.openscad.org/). The resulting robots are controlled using the [pypot library](https://github.com/poppy-project/pypot), typically running on a Raspberry Pi. These robots aim at being low cost and easy to modify.
+Poppy creatures are built from [XL320 motors](http://support.robotis.com/en/product/dynamixel/xl-series/xl-320.htm) from [Robotis](http://en.robotis.com/). Motors are linked together with [parametrable frames](https://github.com/jgrizou/robotis-scad) that I designed with [OpenScad](http://www.openscad.org/). The resulting robots are controlled using the [pypot library](https://github.com/poppy-project/pypot), typically running on a Raspberry Pi. These robots aim at being low cost and easy to modify.
 
 {% include image.html src='img/ergojr_variation.jpg' col='col-lg-10' sub='Robots built using parametric parts.'%}
 
