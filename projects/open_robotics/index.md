@@ -262,7 +262,7 @@ I voluntary departed from Pollen Robotics in 2018 following a pivot. This pivot 
 
 ### Personal Projects
 
-Personal projects are listed on the project page, under the ["Stuff I built"](../#robot) section.
+Personal projects are listed on the project page, under the ["Stuff I built"](../#robots) section.
 
 <div align="center">
   <a href="#">[Back To Top]</a>
