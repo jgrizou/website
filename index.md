@@ -20,6 +20,11 @@ My favorite projects:
 - [Robotics and AI in a Chemistry lab](projects/chemobot)
 - [Open source robotics](projects/open_robotics)
 
+
+{% for post in site.posts offset:0 limit:1 %}
+Latest Blog Post: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
+{% endfor %}
+
 <!--
 
 I experiment writing essays:
@@ -38,5 +43,7 @@ I experiment writing essays:
 <!-- ---
 
 <div align="center">
-  {% include sitemap.html %}
+  {% for link in site.navbar-links %}
+        <a href="{{ site.baseurl }}{{ link[1] }}">[{{ link[0] }}]</a>
+  {% endfor %}
 </div> -->
