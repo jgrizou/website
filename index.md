@@ -22,7 +22,7 @@ My favorite projects:
 
 
 {% for post in site.posts offset:0 limit:1 %}
-Latest Blog Post: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
+Latest blog post: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
 {% endfor %}
 
 <!--
