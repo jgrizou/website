@@ -43,12 +43,15 @@ layout: default
 
 ## Under Review
 
-1. **Discovery of Novelty in Robotically Constructed Self-Propelling Droplets Using a Curiosity Algorithm.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review at Nature Communication.*
-[[paper draft]](https://chemrxiv.org/articles/A_Closed_Loop_Discovery_Robot_Driven_by_a_Curiosity_Algorithm_Discovers_Proto-Cells_That_Show_Complex_and_Emergent_Behaviours/6958334)
+1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review at Nature Communication.*
+[[paper early draft]](https://chemrxiv.org/articles/A_Closed_Loop_Discovery_Robot_Driven_by_a_Curiosity_Algorithm_Discovers_Proto-Cells_That_Show_Complex_and_Emergent_Behaviours/6958334)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
 [[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
+
+1. **Intuition-Enabled Machine Learning Beats the Competition When Joint Human-Robot Teams Perform Inorganic Chemical Experiments**. Vasilios Duros, Jonathan Grizou, Abhishek Sharma, S. Hessam M. Mehr, Andrius Bubliauskas, Przemysław Frei, Haralampos N. Miras, and Leroy Cronin (2019). *Under review at ACS Central Science.*
+[[paper early draft]](https://chemrxiv.org/s/cff1a2c5063a6284c6e5)
 
 ## All per year
 
