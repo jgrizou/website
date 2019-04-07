@@ -9,9 +9,9 @@ layout: default
 
 ## Standing invitation
 
-<!-- https://www.kalzumeus.com/standing-invitation/ -->
+<!-- inspired from https://www.kalzumeus.com/standing-invitation/ -->
 
-If you want to talk about any topic covered on this website or something I should know about, I invite you to contact me. Sharing is caring, I want to talk to you, you won't annoy me. I strongly prefer email as a communication method. I limit relentlessly my social media usage, don't expect to find me there.
+If you want to talk about any topic covered on this website or something I should know about, I invite you to contact me. Sharing is caring, I want to talk to you, you won't annoy me. I strongly prefer emails as a communication method. I limit relentlessly my social media usage, don't expect to find me there.
 
 You can reach me by email at <a href="mailto:jonathan.grizou@gmail.com">jonathan.grizou@gmail.com</a> or any link below.
 
