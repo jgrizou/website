@@ -125,8 +125,8 @@ layout: default
       <input type="text" class="form-control form-control-sm" id="name" placeholder="Who are you?" maxlength="30">
     </div>
     <div class="col">
-      <label>Contact</label>
-      <input type="text" class="form-control form-control-sm" id="contact" placeholder="A way to contact you" maxlength="40">
+      <label>Your contact</label>
+      <input type="text" class="form-control form-control-sm" id="contact" placeholder="Your email or phone number" maxlength="40">
     </div>
   </div>
 </div>
