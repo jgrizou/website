@@ -115,13 +115,13 @@ layout: default
 # Send me a SMS
 
 <div class="form-group">
-  <label>Message</label>
+  <label>Your message</label>
   <textarea class="form-control form-control-sm" id="message" placeholder="Tell me" maxlength="400"></textarea>
 </div>
 <div class="form-group">
   <div class="row">
     <div class="col">
-      <label>Name</label>
+      <label>Your name</label>
       <input type="text" class="form-control form-control-sm" id="name" placeholder="Who are you?" maxlength="30">
     </div>
     <div class="col">
