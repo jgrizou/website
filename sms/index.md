@@ -18,8 +18,6 @@ layout: default
 
   function send() {
 
-    const url = "https://7xs0bfw3bh.execute-api.eu-west-1.amazonaws.com/prod/sms"
-
     var message = document.getElementById("message")
     var name = document.getElementById("name")
     var contact = document.getElementById("contact")
@@ -35,9 +33,11 @@ layout: default
       button.disabled = true
       button.value = "Sending..."
 
+      var url = "https://7xs0bfw3bh.execute-api.eu-west-1.amazonaws.com/prod/sms"
       var content = {"msg": message.value + "\n\n" + name.value + "\n" + contact.value}
+      var option = {'headers': {'x-api-key': 'ZpDE86XzPsJGNcQ5FxBLCbkRYBxxGI683EsGpEa0'}}
 
-      axios.post(url, content)
+      axios.post(url, content, option)
         .then((res) => {
           // console.log(res.data)
 
