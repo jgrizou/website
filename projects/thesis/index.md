@@ -15,6 +15,7 @@ Last update: January 2019
 - [Approach](#approach)
 - [Team](#team)
 - [Projects](#projects)
+  - [Online demo](#demo)
   - [Brain-Computer interaction](#bci)
   - [Human-Robot interaction](#hri)
   - [Planning](#planning)
@@ -46,6 +47,40 @@ PhD advisors: [Manuel Lopes](https://scholar.google.com/citations?user=kqkq_coAA
 BCI collaborators: [Iñaki Itturate](http://people.epfl.ch/inaki.iturrate) and [Luis Montesano](http://webdiis.unizar.es/~montesan/web/).
 
 ## Projects
+
+{% include anchor.html id="demo" %}
+### Online Demo
+
+I am currently designing a web application to demonstrate the concept of self-calibrating interfaces. A preliminary version of the challenge is available online at as a puzzle game: [http://discourse.cri-paris.org/t/introduction-to-the-open-vault-challenge/201](http://discourse.cri-paris.org/t/introduction-to-the-open-vault-challenge/201) and more details are available here: [https://arxiv.org/pdf/1906.02485.pdf](https://arxiv.org/pdf/1906.02485.pdf).
+
+The demo takes the form of a challenge to open a vault. The vault is secured by a 4-digit code that can be type via a simple user interface on a screen. You have access to videos of a user entering the code into the interface and can watch it as much as required. The challenge is to crack the code, open the vault, and collect its content.
+
+
+<div class="container">
+  <div class="row align-items-center justify-content-center">
+    <div class="col-md-8">
+    {% include image.html src='img/vault_people.jpeg' col='col'%}
+    </div>
+    <div class="col-md-4">
+    {% include image.html src='img/vault_interaction.gif' col='col'%}
+    </div>
+  </div>
+  <div class="row align-self-center justify-content-center" style="margin-top: -1rem; margin-bottom: 1rem; font-size: 0.75rem;">
+    <div class="col">
+      <div align="center" style="text-align: justify; text-justify: inter-word;">
+      Left: Staffs and students trying to crack the code. Right: Example of demonstration videos available to crack the code at level 1.
+      </div>
+    </div>
+  </div>
+</div>
+
+There is 5 level of increasing complexity and from level 3 onward the interface is built using the calibration-free interfaces paradigms presented on this page, which makes it hard for an observer to infer what the user is typing as the meaning associated to each buttons/actions is decided on the fly by the human.
+
+#### Resources
+
+1. **The Open Vault Challenge--Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, Jonathan (2019). *International Joint Conferences on Artificial Intelligence.*
+[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
+[[project]]({{ site.baseurl }}/projects/thesis)
 
 {% include anchor.html id="bci" %}
 ### Application to Brain-Computer Interfaces
@@ -156,6 +191,10 @@ Tutorial:
 [[All related videos]](https://www.youtube.com/playlist?list=PLBppiRCztuKohELU34f2LBQ8-8X8R8zo0)
 
 ### Publications
+
+1. **The Open Vault Challenge--Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, Jonathan (2019). *International Joint Conferences on Artificial Intelligence.*
+[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
+[[project]]({{ site.baseurl }}/projects/thesis)
 
 1. **Learning from Unlabeled Interaction Frames.** Grizou, J. (2014). *PhD Thesis.* **PhD Thesis Award.**
 [[pdf]](https://github.com/jgrizou/thesis_manuscript/releases/final/)

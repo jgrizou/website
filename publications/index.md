@@ -6,8 +6,20 @@ layout: default
 
 <a href="https://scholar.google.fr/citations?hl=en&user=Fej-hGQAAAAJ&view_op=list_works&sortby=pubdate" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="fas fa-user-astronaut"></span> Google Scholar</a>
 
+[[ORCID iD]](https://orcid.org/0000-0002-2211-4389) [[Impactstory]](https://profiles.impactstory.org/u/0000-0002-2211-4389)
 
 ## Selected
+
+1. **The Open Vault Challenge--Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, Jonathan (2019). *International Joint Conferences on Artificial Intelligence.*
+[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
+[[project]]({{ site.baseurl }}/projects/thesis)
+
+1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review.*
+[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
+[[robot design]](https://github.com/croningp/dropfactory)
+[[experiment code]](https://github.com/croningp/dropfactory_exploration)
+[[analysis code]](https://github.com/croningp/dropfactory_analysis)
+[[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
 
 1. **Artificial intelligence exploration of unstable protocells leads to predictable properties and discovery of collective behavior.** Points, L. J., Taylor, J. W., Grizou, J., Donkers, K., & Cronin, L. (2018). *PNAS - Proceedings of the National Academy of Sciences, 201711089.*
 [[pdf]](https://www.pnas.org/content/pnas/early/2018/01/09/1711089115.full.pdf)
@@ -19,7 +31,7 @@ layout: default
 [[journal]](https://www.nature.com/articles/s41467-017-01161-8)
 [[project]]({{ site.baseurl }}/projects/chemobot#flowbot)
 
-1. **Human vs Robots in the Discovery and Crystallization of Gigantic Polyoxometalates.** Grizou, J., Duros, V., Xuan, W., Hosni, Z., Long, D.-L., Miras H., Cronin L. (2017). *Angewandte Chemie 129.36: 10955-10960.*
+1. **Human vs Robots in the Discovery and Crystallization of Gigantic Polyoxometalates.** Duros, V., Grizou, J., Xuan, W., Hosni, Z., Long, D.-L., Miras H., Cronin L. (2017). *Angewandte Chemie 129.36: 10955-10960.*
 [[pdf]](https://core.ac.uk/download/pdf/84148587.pdf)
 [[SI]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fanie.201705721&file=anie201705721-sup-0001-misc_information.pdf)
 [[code]](https://github.com/croningp/crystal_active_learning)
@@ -43,17 +55,28 @@ layout: default
 
 ## Under Review
 
-1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review at Nature Communication.*
-[[paper early draft]](https://chemrxiv.org/articles/A_Closed_Loop_Discovery_Robot_Driven_by_a_Curiosity_Algorithm_Discovers_Proto-Cells_That_Show_Complex_and_Emergent_Behaviours/6958334)
+1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review*
+[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
 [[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
 
-1. **Intuition-Enabled Machine Learning Beats the Competition When Joint Human-Robot Teams Perform Inorganic Chemical Experiments**. Vasilios Duros, Jonathan Grizou, Abhishek Sharma, S. Hessam M. Mehr, Andrius Bubliauskas, Przemysław Frei, Haralampos N. Miras, and Leroy Cronin (2019). *Under review at ACS Central Science.*
-[[paper early draft]](https://chemrxiv.org/s/cff1a2c5063a6284c6e5)
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2019). *Under Review*
+[[pdf]](https://chemrxiv.org/ndownloader/files/15456467)
+[[pre-print]](https://chemrxiv.org/articles/A_Nanomaterials_Discovery_Robot_for_the_Darwinian_Evolution_of_Shape_Programmable_Gold_Nanoparticles/8266547)
+[[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
 
 ## All per year
+
+1. **The Open Vault Challenge--Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, Jonathan (2019). *International Joint Conferences on Artificial Intelligence.*
+[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
+[[project]]({{ site.baseurl }}/projects/thesis)
+
+1. **Intuition-enabled Machine Learning beats the Competition when Joint Human-Robot Teams per-form Inorganic Chemical Experiments.** Duros, V., Grizou, J., Sharma, A., Mehr, S.H.M., Bubliauskas, A., Frei, P., Miras, H.N. and Cronin, L. (2019). *Journal of chemical information and modeling.*
+[[pdf]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00304)
+[[journal]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00304)
+[[project]]({{ site.baseurl }}/projects/chemobot#human-vs-robots)
 
 1. **Artificial intelligence exploration of unstable protocells leads to predictable properties and discovery of collective behavior.** Points, L. J., Taylor, J. W., Grizou, J., Donkers, K., & Cronin, L. (2018). *PNAS - Proceedings of the National Academy of Sciences, 201711089.*
 [[pdf]](https://www.pnas.org/content/pnas/early/2018/01/09/1711089115.full.pdf)

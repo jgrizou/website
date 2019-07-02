@@ -19,11 +19,6 @@ You can reach me by email at <a href="mailto:jonathan.grizou@gmail.com">jonathan
   {% include social-link.html %}
 </div>
 
-<!-- ## About this website
-
-This website is meant for me to remember and archive what I have done and thoughts I had. It is also a way to quickly show and explain my work to interested persons.
-
-I make my-self quite vulnerable at times with what I share, which I believe is important for a healthy society. Otherwise our peers can only see a distorted version of reality that can become stressful when wishing to contribute, or simply be. I suffered from this as everybody, especially in academia where brain show-off and convoluted vocabulary always make you believe you can't join the fun. It is sadly similar in many corners of our lives. Trust me, you can do it. We are all smart and imperfect in our own ways. -->
 
 ## Thanks
 
@@ -40,5 +35,10 @@ A number of persons and institutions have been instrumental to my career:
 I wish to thank them all for their respective roles in my personal and professional development.
 
 ## Website
+
+<!-- This website is meant for me to remember and archive what I have done and thoughts I had. It is also a way to quickly show and explain my work to interested persons.
+
+I make my-self quite vulnerable at times with what I share, which I believe is important for a healthy society. Otherwise our peers can only see a distorted version of reality that can become stressful when wishing to contribute. I suffer from imposter syndrome as most, especially in academia where brain show-off and convoluted vocabulary always make you believe you can't join the fun. It is sadly similar in many corners of our lives. Trust yourself, you can do it. We are all smart and imperfect in our own ways. -->
+
 
 This website is hosted by [GitHub](https://pages.github.com/), built with [Jekyll](https://jekyllrb.com/), and uses the [Lanyon](http://lanyon.getpoole.com/) theme.

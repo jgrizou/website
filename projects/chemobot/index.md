@@ -82,11 +82,12 @@ Once the temperature dependance was discovered, six modes of self-propelled drop
 
 #### Resources
 
-1. **Discovery of Novelty in Robotically Constructed Self-Propelling Droplets Using a Curiosity Algorithm.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review at Nature Communication.*
-[[early draft]](https://chemrxiv.org/articles/A_Closed_Loop_Discovery_Robot_Driven_by_a_Curiosity_Algorithm_Discovers_Proto-Cells_That_Show_Complex_and_Emergent_Behaviours/6958334)
+1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review*
+[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
+[[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
 
 {% include anchor.html id="human-vs-robots" %}
 ### Active selection of crystallization experiments and comparison with human methodology
@@ -125,8 +126,10 @@ A critical constraint was that we could only perform 10 experiments per day. We 
 
 #### Resources
 
-1. **Intuition-Enabled Machine Learning Beats the Competition When Joint Human-Robot Teams Perform Inorganic Chemical Experiments**. Vasilios Duros, Jonathan Grizou, Abhishek Sharma, S. Hessam M. Mehr, Andrius Bubliauskas, Przemysław Frei, Haralampos N. Miras, and Leroy Cronin (2019). *Under review at ACS Central Science.*
-[[paper early draft]](https://chemrxiv.org/s/cff1a2c5063a6284c6e5)
+1. **Intuition-enabled Machine Learning beats the Competition when Joint Human-Robot Teams per-form Inorganic Chemical Experiments.** Duros, V., Grizou, J., Sharma, A., Mehr, S.H.M., Bubliauskas, A., Frei, P., Miras, H.N. and Cronin, L. (2019). *Journal of chemical information and modeling.*
+[[pdf]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00304)
+[[journal]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00304)
+[[project]]({{ site.baseurl }}/projects/chemobot#human-vs-robots)
 
 1. **Human vs Robots in the Discovery and Crystallization of Gigantic Polyoxometalates.** Grizou, J., Duros, V., Xuan, W., Hosni, Z., Long, D.-L., Miras H., Cronin L. (2017). *Angewandte Chemie 129.36: 10955-10960.*
 [[pdf]](https://core.ac.uk/download/pdf/84148587.pdf)
@@ -150,7 +153,15 @@ After several cycles and the application of a genetic algorithm (GA), the fitnes
 
 {% include image.html src='img/nano_result.png' col='col-lg-10' sub="Left: Evolution of the median fitness per generation. Middle: Comparison between UV-Vis spectrum of particles described in the literature and the best particles obtained with the robot. Right: TEM image of the particles that correspond to the UV-Vis spectrum shown."%}
 
-Our results show that the evolution of nanomaterials is possible in a fully automated fashion and has the potential to change the way AuNPs are studied and explored. This work is not published yet.
+Our results show that the evolution of nanomaterials is possible in a fully automated fashion and has the potential to change the way AuNPs are studied and explored.
+
+#### Resources
+
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2019). *Under Review*
+[[pdf]](https://chemrxiv.org/ndownloader/files/15456467)
+[[pre-print]](https://chemrxiv.org/articles/A_Nanomaterials_Discovery_Robot_for_the_Darwinian_Evolution_of_Shape_Programmable_Gold_Nanoparticles/8266547)
+[[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
+
 
 {% include anchor.html id="flowbot" %}
 ### Physical environment as an experiment variable
@@ -260,15 +271,22 @@ We have developed a collection of software and hardware tools that has been made
 
 ### Publications
 
-1. **Intuition-Enabled Machine Learning Beats the Competition When Joint Human-Robot Teams Perform Inorganic Chemical Experiments**. Vasilios Duros, Jonathan Grizou, Abhishek Sharma, S. Hessam M. Mehr, Andrius Bubliauskas, Przemysław Frei, Haralampos N. Miras, and Leroy Cronin (2019). *Under review at ACS Central Science.*
-[[paper early draft]](https://chemrxiv.org/s/cff1a2c5063a6284c6e5)
-
-1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review at Nature Communication.*
-[[paper early draft]](https://chemrxiv.org/articles/A_Closed_Loop_Discovery_Robot_Driven_by_a_Curiosity_Algorithm_Discovers_Proto-Cells_That_Show_Complex_and_Emergent_Behaviours/6958334)
+1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review*
+[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
 [[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
+
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2019). *Under Review*
+[[pdf]](https://chemrxiv.org/ndownloader/files/15456467)
+[[pre-print]](https://chemrxiv.org/articles/A_Nanomaterials_Discovery_Robot_for_the_Darwinian_Evolution_of_Shape_Programmable_Gold_Nanoparticles/8266547)
+[[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
+
+1. **Intuition-enabled Machine Learning beats the Competition when Joint Human-Robot Teams per-form Inorganic Chemical Experiments.** Duros, V., Grizou, J., Sharma, A., Mehr, S.H.M., Bubliauskas, A., Frei, P., Miras, H.N. and Cronin, L. (2019). *Journal of chemical information and modeling.*
+[[pdf]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00304)
+[[journal]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00304)
+[[project]]({{ site.baseurl }}/projects/chemobot#human-vs-robots)
 
 1. **Artificial intelligence exploration of unstable protocells leads to predictable properties and discovery of collective behavior.** Points, L. J., Taylor, J. W., Grizou, J., Donkers, K., & Cronin, L. (2018). *PNAS - Proceedings of the National Academy of Sciences, 201711089.*
 [[pdf]](https://www.pnas.org/content/pnas/early/2018/01/09/1711089115.full.pdf)
