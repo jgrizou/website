@@ -1,5 +1,5 @@
 ---
-style: Default
+layout: default
 ---
 
 # Facilitating Intention Prediction for Humans by Optimizing Robot Motions

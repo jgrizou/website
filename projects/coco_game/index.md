@@ -1,5 +1,5 @@
 ---
-style: Default
+layout: default
 ---
 
 # Studying the Co-Construction of Interaction Protocols in Collaborative Tasks with Humans

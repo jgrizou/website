@@ -1,5 +1,5 @@
 ---
-style: Default
+layout: default
 ---
 
 # Modeling the salamander swimming gait with virtual muscles on a robotic platform

@@ -1,5 +1,5 @@
 ---
-style: Default
+layout: default
 ---
 
 # Parametric Parts

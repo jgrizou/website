@@ -1,5 +1,5 @@
 ---
-style: Default
+layout: default
 ---
 
 # Collaboration in Ad Hoc Teamwork: Ambiguous Tasks, Roles, and Communication
