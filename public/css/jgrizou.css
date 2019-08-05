@@ -39,67 +39,60 @@ a.sidebar-nav-item:focus {
 /* vault demo */
 
 :root {
-  --max-width: 400px;
+  --border-color: rgba(0, 0, 0, 1);
+  --border-width: 2px;
+  --margin-top-bottom: 20px;
 
-  --app-native-width: 480;
-  --app-native-height: 800;
-  --app-native-width-scaling-ratio: calc(var(--app-native-height) / var(--app-native-width));
+  --max-width-vault: 400px;
+  --padding-top-vault: 164.5%;
+  --padding-top-hood: 83.33%;
+
+  --padding-top-vault-full-page: 663px;
+  --frame-height-vault-full-page: 662.4px;
 }
 
-.resp-div-vault {
+.resp-div {
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  max-width: var(--max-width);
+  margin-top: var(--margin-top-bottom);
+  margin-bottom: var(--margin-top-bottom);
   overflow: hidden;
-  padding-top: calc( var(--app-native-width-scaling-ratio) * 100%);
 }
 
-.resp-iframe-vault {
+.resp-iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  border-style: solid;
-  border-width: medium;
+  border-width: var(--border-width);
+  border-color: var(--border-color);
 }
 
-.resp-div-vault-hood {
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: var(--max-width);
-  overflow: hidden;
-  padding-top: calc( var(--app-native-width-scaling-ratio) * 50%)
+.vault {
+  padding-top: var(--padding-top-vault);
 }
 
-.resp-iframe-vault-hood {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-style: solid;
-  border-width: medium;
+.hood {
+  padding-top: var(--padding-top-hood);
 }
 
-/* On screens that are XXpx wide or more */
-@media screen and (min-width: 432px) {
+/* full page specific settings with max-width to avoid too big element on screen */
 
-  .resp-div-vault {
-    padding-top: calc(var(--app-native-width-scaling-ratio) * var(--max-width))
+.full-page-div-vault {
+  max-width: var(--max-width-vault);
+  padding-top: var(--padding-top-vault);
+}
+
+/* Tuned by eyes */
+@media screen and (min-width: 446px) {
+
+  .full-page-div-vault {
+    padding-top: var(--padding-top-vault-full-page);
   }
 
-  .resp-iframe-vault {
-    height: calc(var(--app-native-width-scaling-ratio) * var(--max-width))
-  }
-
-  .resp-div-vault-hood {
-    padding-top: calc(var(--app-native-width-scaling-ratio) * var(--max-width) / 2)
-  }
-
-  .resp-iframe-vault-hood {
-    height: calc(var(--app-native-width-scaling-ratio) * var(--max-width) / 2)
+  .full-page-iframe-vault {
+    height: var(--frame-height-vault-full-page);
   }
 }
