@@ -96,3 +96,11 @@ a.sidebar-nav-item:focus {
     height: var(--frame-height-vault-full-page);
   }
 }
+
+.embed-responsive-vault::before {
+  padding-top: 166.67%;
+}
+
+.embed-responsive-hood::before {
+  padding-top: 83.33%;
+}
