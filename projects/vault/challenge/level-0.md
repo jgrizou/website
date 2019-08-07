@@ -18,7 +18,7 @@ layout: default
   </div>
 </div>
 
-Enter the code for level 0 above or [at this link](https://openvault.jgrizou.com/#/ui/level_0.json). Three demonstration videos are provided below.
+Enter the code for level 0 above or [at this link](https://openvault.jgrizou.com/#/ui/level_0.json). Three demonstration videos are provided below ([[1]](https://www.youtube.com/embed/KXZ_WeKM8XI), [[2]](https://www.youtube.com/embed/HsdLoCF8gGY), [[3]](https://www.youtube.com/embed/My0hQkANxik)). Good luck!
 
 <div class="container">
   <div class="row align-items-center justify-content-center">
