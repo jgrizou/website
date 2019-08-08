@@ -10,7 +10,8 @@ layout: default
     <div class="col-md-6">
       <div class="resp-div vault">
         <iframe class="resp-iframe"
-                src="https://openvault.jgrizou.com/#/ui/level_6.json">
+                src="https://openvault.jgrizou.com/#/ui/level_6.json"
+                allow="microphone">
         </iframe>
       </div>
     </div>
@@ -55,7 +56,8 @@ Enter the code for level 6 above or [at this link](https://openvault.jgrizou.com
       <div class="col-md-6">
         <div class="resp-div vault">
           <iframe class="resp-iframe"
-                  src="https://openvault.jgrizou.com/#/ui/level_6_visible.json">
+                  src="https://openvault.jgrizou.com/#/ui/level_6_visible.json"
+                  allow="microphone">
           </iframe>
         </div>
       </div>
