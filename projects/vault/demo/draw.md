@@ -59,7 +59,7 @@ Three additional demonstration videos are provided below ([[1]](https://www.yout
 
 To go further, check the [explanatory interface](../../tuto/draw/).
 
-Next, I recommend trying the [audio version](../audio/), in which you speak to the machine sketches instead of drawing sketches.
+Next, I recommend trying the [audio version](../audio/), in which you speak to the machine instead of drawing sketches.
 
 All available versions are linked below.
 

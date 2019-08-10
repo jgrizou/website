@@ -10,18 +10,16 @@ Last update: August 2019
 
 ## What is this about ?
 
-A self-calibrating interface is able to understand what you are trying to do, without knowing in advance how you are trying to do it. Imagine the remote control of your TV, but you get to decide what each button on the remote does while you are using it.
+Make sure you checked the [vault project page](../) or the [demo page](../demo) before.
 
-I know, that explanation is not really clear, and does not give you the feel of it. So I have crafted a self-calibrating code entering interface for you to try.
-
-But more than trying, you will get to see what is happening under the hood and understand how it works.
+To explain how a self-calibrating interface works, I have designed a window into its machinery as a side panel. That way you will get to see what is happening under the hood while you use the interface.
 
 ## Tutorials
 
 Each tutorial is made of an interactive web application and a video explaining how to use it.
 
-- [Two buttons - known colors](./1x2) -
-- [3x3 buttons - ](./3x3) - Two colored buttons
+- [Two buttons](./1x2)
+- [3x3 buttons](./3x3)
 - [Touch](./touch)
 - [Draw](./draw)
 - [Speak](./audio)

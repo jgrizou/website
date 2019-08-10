@@ -24,7 +24,7 @@ I have not filmed the associated explanatory videos yet. Under the hood, it work
 
 ### What's next
 
-Next, I recommend experimenting with the [touch tutorial version](../touch/). Try to fool it in predicting the wrong digit. Think a color map that will be too hard for the machine to identify, and analyze why it fails.
+Next, I recommend experimenting with the [touch tutorial version](../touch/). Try to fool it in predicting the wrong digit. Think of a color map that will be too hard for the machine to identify, and analyze why it fails.
 
 All available demos are linked below.
 

@@ -59,7 +59,7 @@ Three additional demonstration videos are provided below ([[1]](https://www.yout
 
 To go further, check the [explanatory interface](../../tuto/audio/).
 
-Next, I recommend experimenting with the [touch tutorial version](../../tuto/audio/). Try to fool it in predicting the wrong digit. Think a color map that will be too hard for the machine to identify, and analyze why it fails.
+Next, I recommend experimenting with the [touch tutorial version](../../tuto/audio/). Try to fool it in predicting the wrong digit. Think of a color map that will be too hard for the machine to identify, and analyze why it fails.
 
 All available versions are linked below.
 

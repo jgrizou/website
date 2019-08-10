@@ -24,7 +24,7 @@ I have not filmed the associated explanatory videos yet. Under the hood, it work
 
 ### What's next
 
-Next, I recommend trying the [audio version](../../demo/audio/), in which you speak to the machine sketches instead of drawing sketches.
+Next, I recommend trying the [audio version](../../demo/audio/), in which you speak to the machine instead of drawing sketches.
 
 All available demos are linked below.
 
