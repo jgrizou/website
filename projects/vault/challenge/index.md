@@ -33,4 +33,6 @@ The challenge is split into levels of increasing complexity.
 
 ## A bit of history
 
-The first ever version of this challenge was built as a physical vault made of wood, metal and acrylic. It was developed at [CRI](https://cri-paris.org/) and the challenge remain [available online](http://discourse.cri-paris.org/t/introduction-to-the-open-vault-challenge). It was a great success among students. They spent many hours trying to cracking the code and learned a lot. It has proven an engaging medium to teach concepts of computer science and machine learning.
+The first version of this challenge was built as a physical vault made of wood, metal and acrylic. It was developed at [CRI](https://cri-paris.org/) and the challenge remain [available online](http://discourse.cri-paris.org/t/introduction-to-the-open-vault-challenge). It was a great success among students. They spent many hours trying to crack the code and learned a lot. It has proven an engaging medium to teach concepts of computer science and machine learning.
+
+{% include vault_links_quick_access.html %}

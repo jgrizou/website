@@ -18,8 +18,10 @@ I know, that explanation is not really clear, and does not give you the feel of 
 
 Different modalities can be tested, you can click on buttons, place points, draw sketches or even speak. If this is your first time, I recommend going through each version in order.
 
-{% include vault_quick_access.html %}
+{% include vault_demo_quick_access.html %}
 
 For each version, a small explanatory text is provided along with a didactic video.
 
 <p style="font-size: 0.75rem;">Btw, the audio version can be especially entertaining as you can replay previous recordings in ludicrous ways.</p>
+
+{% include vault_links_quick_access.html %}

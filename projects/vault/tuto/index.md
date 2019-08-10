@@ -16,10 +16,8 @@ To explain how a self-calibrating interface works, I have designed a window into
 
 ## Tutorials
 
-Each tutorial is made of an interactive web application and a video explaining how to use it.
+Each tutorial is made of an interactive web application and a video explaining how to use it. If this is your first time, I recommend going through each version in order.
 
-- [Two buttons](./1x2)
-- [3x3 buttons](./3x3)
-- [Touch](./touch)
-- [Draw](./draw)
-- [Speak](./audio)
+{% include vault_tuto_quick_access.html %}
+
+{% include vault_links_quick_access.html %}

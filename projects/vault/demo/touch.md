@@ -107,4 +107,6 @@ Next, I recommend trying the [draw version](../draw/), in which you draw sketche
 
 All available versions are linked below.
 
-{% include vault_quick_access.html %}
+{% include vault_demo_quick_access.html %}
+
+{% include vault_links_quick_access.html %}

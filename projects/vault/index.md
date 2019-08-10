@@ -73,7 +73,7 @@ The challenge is divided into levels of increasing complexity, designed for a pr
 
 If you do not have time for the challenge, you can directly try any version below. If this is your first time, I recommend going through them in order.
 
-{% include vault_quick_access.html %}
+{% include vault_demo_quick_access.html %}
 
 For each version, a small explanatory text is provided along with a didactic video.
 
@@ -84,7 +84,6 @@ For each version, a small explanatory text is provided along with a didactic vid
 ### Grasp it - look under the hood
 
 If you want to see how it works, I have built a little window into the machinery powering the interface. It provides detailed feedback about the current state of the machine.
-
 
 It allows you to challenge the interface in complex ways. For example, I sometime use these advanced versions to fool the machine into making a false prediction, or to select my actions such that it takes the longest possible time to identify a digit.
 

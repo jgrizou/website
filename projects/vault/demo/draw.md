@@ -57,10 +57,12 @@ Three additional demonstration videos are provided below ([[1]](https://www.yout
 
 ### What's next
 
-To go further, check the [explanatory interface](../../tuto/draw/).
+To go further, check the [draw explanatory interface](../../tuto/draw/).
 
 Next, I recommend trying the [audio version](../audio/), in which you speak to the machine instead of drawing sketches.
 
 All available versions are linked below.
 
-{% include vault_quick_access.html %}
+{% include vault_demo_quick_access.html %}
+
+{% include vault_links_quick_access.html %}

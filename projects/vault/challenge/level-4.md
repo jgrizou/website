@@ -107,4 +107,4 @@ Enter the code for level 4 above or [at this link](https://openvault.jgrizou.com
 
 ---
 
-Links: [[Level 5]](../level-5/) [[Challenge page]](../) [[Vault page]](../../)
+Links: [[Level 5]](../level-5/) [[Challenge page]](../) [[Project page]](../../)

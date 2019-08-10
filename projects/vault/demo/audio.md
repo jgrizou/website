@@ -57,10 +57,12 @@ Three additional demonstration videos are provided below ([[1]](https://www.yout
 
 ### What's next
 
-To go further, check the [explanatory interface](../../tuto/audio/).
+To go further, check the [audio explanatory interface](../../tuto/audio/).
 
-Next, I recommend experimenting with the [touch tutorial version](../../tuto/audio/). Try to fool it in predicting the wrong digit. Think of a color map that will be too hard for the machine to identify, and analyze why it fails.
+Next, I recommend experimenting with the [touch tutorial version](../../tuto/touch/). Try to fool it in predicting the wrong digit. Think of a color map that will be too hard for the machine to identify, and analyze why it fails.
 
 All available versions are linked below.
 
-{% include vault_quick_access.html %}
+{% include vault_demo_quick_access.html %}
+
+{% include vault_links_quick_access.html %}

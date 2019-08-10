@@ -4,7 +4,7 @@ layout: default
 
 ## Main projects
 
-1. [Open Vault Challenge](vault) (2019 - ongoing)
+1. [An interface that reads your mind](vault) (2019 - ongoing)
 1. [Robotics and AI in a Chemistry lab](chemobot) (2015 - ongoing)
 1. [Unlabeled interactive learning](thesis) (2011 - 2015 \| 2019 - ongoing)
 1. [Open source robotics](open_robotics) (2012 - 2018)

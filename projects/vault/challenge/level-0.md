@@ -78,4 +78,4 @@ Enter the code for level 0 above or [at this link](https://openvault.jgrizou.com
 
 ---
 
-Links: [[Level 1]](../level-1/) [[Challenge page]](../) [[Vault page]](../../)
+Links: [[Level 1]](../level-1/) [[Challenge page]](../) [[Project page]](../../)
