@@ -22,7 +22,7 @@ Below is a typical user interface, it is a code entering device. With two big co
   </div>
 </div>
 
-The aim is normative. It is more efficient and convenient if we all behave the same way. And judging by apps like Instagram or Twitter, designers have done a great job.
+The aim is normative. It is more efficient and convenient if we all behave the same way. And with apps like Instagram or Twitter, designers have done a great job at funneling our interaction.
 
 But let me show you another way to interact with digital devices.
 
