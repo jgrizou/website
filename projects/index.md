@@ -4,6 +4,7 @@ layout: default
 
 ## Main projects
 
+1. [Open Vault Challenge](vault) (2019 - ongoing)
 1. [Robotics and AI in a Chemistry lab](chemobot) (2015 - ongoing)
 1. [Unlabeled interactive learning](thesis) (2011 - 2015 \| 2019 - ongoing)
 1. [Open source robotics](open_robotics) (2012 - 2018)
@@ -20,6 +21,7 @@ layout: default
 {% include anchor.html id="robots" %}
 ## Stuff I built
 
+1. [Web application - Self-calibrating code entering interface](vault) (2019 - ongoing)
 1. [Dropfactory - High-throughput laboratory robot with AI](https://github.com/croningp/dropfactory) (2015 - 2017)
 1. [Tools for open research in chemistry labs](open_robotics#laboratory-robotics) (2015 - 2017)
 1. [Soft starfish robot - Building low-cost soft robots](https://github.com/poppy-project/poppy-soft-starfish) (2016)

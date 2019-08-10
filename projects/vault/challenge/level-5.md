@@ -7,7 +7,7 @@ layout: default
 <div class="container">
   <div class="row align-items-center justify-content-center">
 
-    <div class="col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
       <div class="resp-div vault">
         <iframe class="resp-iframe"
                 src="https://openvault.jgrizou.com/#/ui/level_5.json">
@@ -23,15 +23,15 @@ Enter the code for level 5 above or [at this link](https://openvault.jgrizou.com
 <div class="container">
   <div class="row align-items-center justify-content-center">
 
-    <div class="col-md">
+    <div class="col-lg col-md-4 col-sm-4 col-6">
     {% include youtube_vault.html id='05ORQTvRkKE' %}
     </div>
 
-    <div class="col-md">
+    <div class="col-lg col-md-4 col-sm-4 col-6">
     {% include youtube_vault.html id='MpvHJYrgCxE' %}
     </div>
 
-    <div class="col-md">
+    <div class="col-lg col-md-4 col-sm-4 col-6">
     {% include youtube_vault.html id='F65IyKpKAjY' %}
     </div>
 
@@ -40,7 +40,7 @@ Enter the code for level 5 above or [at this link](https://openvault.jgrizou.com
 
 ---
 
-> Reveal the information below only as a last resort.
+> Reveal the clues below only as a last resort.
 
 <details>
   <summary style="margin-top: 1rem; font-size: 1.10rem;">Clue No. 1</summary>
@@ -52,7 +52,7 @@ Enter the code for level 5 above or [at this link](https://openvault.jgrizou.com
   <div class="container">
     <div class="row align-items-center justify-content-center">
 
-      <div class="col-md-6">
+      <div class="col-lg-6 col-md-6 col-sm-6 col-12">
         <div class="resp-div vault">
           <iframe class="resp-iframe"
                   src="https://openvault.jgrizou.com/#/ui/level_5_visible.json">
@@ -73,6 +73,8 @@ Enter the code for level 5 above or [at this link](https://openvault.jgrizou.com
   <p>Same as <a href="../level-4/">level 4</a> but with sketches.</p>
 
 </details>
+
+---
 
 <details>
   <summary style="margin-top: 1rem; font-size: 1.10rem;">Take home message</summary>

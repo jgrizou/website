@@ -7,7 +7,7 @@ layout: default
 <div class="container">
   <div class="row align-items-center justify-content-center">
 
-    <div class="col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
       <div class="resp-div vault">
         <iframe class="resp-iframe"
                 src="https://openvault.jgrizou.com/#/ui/level_0.json">
@@ -23,15 +23,15 @@ Enter the code for level 0 above or [at this link](https://openvault.jgrizou.com
 <div class="container">
   <div class="row align-items-center justify-content-center">
 
-    <div class="col-md">
+    <div class="col-lg col-md-4 col-sm-4 col-6">
     {% include youtube_vault.html id='KXZ_WeKM8XI' %}
     </div>
 
-    <div class="col-md">
+    <div class="col-lg col-md-4 col-sm-4 col-6">
     {% include youtube_vault.html id='HsdLoCF8gGY' %}
     </div>
 
-    <div class="col-md">
+    <div class="col-lg col-md-4 col-sm-4 col-6">
     {% include youtube_vault.html id='My0hQkANxik' %}
     </div>
 
@@ -41,7 +41,7 @@ Enter the code for level 0 above or [at this link](https://openvault.jgrizou.com
 
 ---
 
-> Reveal the information below only as a last resort.
+> Reveal the clues below only as a last resort.
 
 <details>
   <summary style="margin-top: 1rem; font-size: 1.10rem;">Clue No. 1</summary>
@@ -60,6 +60,8 @@ Enter the code for level 0 above or [at this link](https://openvault.jgrizou.com
   <p>By clicking on the yellow (respectively grey) button, you tell the machine that your digit is currently colored in yellow (respectively grey).</p>
 
 </details>
+
+---
 
 <details>
   <summary style="margin-top: 1rem; font-size: 1.10rem;">Take home message</summary>

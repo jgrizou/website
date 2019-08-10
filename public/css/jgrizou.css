@@ -1,5 +1,15 @@
 .footer {
-  height: 4rem;
+  margin-top: 4rem;
+  margin-left:  auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 0.75rem;
+  /* height: 4rem; */
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
 }
 
 
