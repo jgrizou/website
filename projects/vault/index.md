@@ -8,7 +8,7 @@ Last update: August 2019
 
 *A web-app to experience the power of self-calibrating interfaces.*
 
-Quick access: [[Crack it]](challenge) [[Try it]](demo) [[Grasp it]](tuto)
+Quick access: [[Crack it]](#crack-it) [[Try it]](#try-it) [[Grasp it]](#grasp-it)
 
 ## Teaser
 
@@ -52,8 +52,9 @@ You will find below several options to play with theses interfaces and gain a de
 
 ## Learning tracks
 
-Quick access: [[Crack it]](challenge) [[Try it]](demo) [[Grasp it]](tuto)
+Quick access: [[Crack it]](#crack-it) [[Try it]](#try-it) [[Grasp it]](#grasp-it)
 
+{% include anchor.html id="crack-it" %}
 ### Crack it - the open vault challenge
 
 > When you teach a child something you take away forever his chance of discovering it for himself - Jean Piaget
@@ -68,7 +69,7 @@ The challenge is divided into levels of increasing complexity, designed for a pr
 
 <a href="challenge" class="btn btn-light btn-lg active" role="button" aria-pressed="true">Go to challenge</a>
 
-
+{% include anchor.html id="try-it" %}
 ### Try it
 
 If you do not have time for the challenge, you can directly try any version below. If this is your first time, I recommend going through them in order.
@@ -81,6 +82,7 @@ For each version, a small explanatory text is provided along with a didactic vid
 
 <a href="demo" class="btn btn-light btn-lg active" role="button" aria-pressed="true">Go to demo</a>
 
+{% include anchor.html id="grasp-it" %}
 ### Grasp it - look under the hood
 
 If you want to see how it works, I have built a little window into the machinery powering the interface. It provides detailed feedback about the current state of the machine.
