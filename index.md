@@ -17,7 +17,7 @@ More broadly, I enjoy making things work in the real world. I devise AI algorith
 
 My favorite projects:
 
-- [Open Vault Challenge](projects/vault/challenge)
+- [An interface that reads your mind](projects/vault/challenge)
 - [Robotics and AI in a Chemistry lab](projects/chemobot)
 - [Self-calibrating interfaces: an intriguing AI paradigm](projects/thesis)
 - [Open source robotics](projects/open_robotics)

@@ -6,7 +6,7 @@ layout: default
 
 <a href="https://scholar.google.fr/citations?hl=en&user=Fej-hGQAAAAJ&view_op=list_works&sortby=pubdate" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="fas fa-user-astronaut"></span> Google Scholar</a>
 
-[[ORCID iD]](https://orcid.org/0000-0002-2211-4389) [[Impactstory]](https://profiles.impactstory.org/u/0000-0002-2211-4389)
+<!-- [[ORCID iD]](https://orcid.org/0000-0002-2211-4389) [[Impactstory]](https://profiles.impactstory.org/u/0000-0002-2211-4389) -->
 
 ## Selected
 
