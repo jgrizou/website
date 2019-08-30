@@ -22,6 +22,16 @@ You can access this demo full screen [at this link](https://openvault.jgrizou.co
 
 ### How to use it
 
+<div class="container">
+  <div class="row align-items-center justify-content-center">
+
+    <div class="col">
+    {% include youtube.html id='5bjk-E8TQLc' %}
+    </div>
+
+  </div>
+</div>
+
 This is like the [touch version](../touch/), but instead of placing points, you draw small sketches for yellow or grey. For example, squares for yellow and circles for grey.
 
 You can type any 4-digit code into this interface. The top part is where the code is shown. The middle part is the machine asking you what color the current digit you want to type is. And the pad below is how you answer back to the machine.
