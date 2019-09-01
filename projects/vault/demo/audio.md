@@ -10,6 +10,7 @@ layout: default
     <div class="col-lg-6 col-md-6 col-sm-6 col-12 nopadding">
       <div class="resp-div vault">
         <iframe class="resp-iframe"
+                allow="microphone"
                 src="https://openvault.jgrizou.com/#/ui/demo_audio.json">
         </iframe>
       </div>

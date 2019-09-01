@@ -12,6 +12,7 @@ Below is the interactive interface with an explanatory side panel for you to exp
     <div class="col-lg-10 col-md-10 col-sm-10 col-12 nopadding">
       <div class="resp-div hood">
         <iframe class="resp-iframe"
+                allow="microphone"
                 src="https://openvault.jgrizou.com/#/ui/tuto_audio.json">
         </iframe>
       </div>
