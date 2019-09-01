@@ -26,7 +26,7 @@ You can access this demo full screen [at this link](https://openvault.jgrizou.co
   <div class="row align-items-center justify-content-center">
 
     <div class="col">
-    {% include youtube.html id='ka1CE5PwQjs' %}
+    {% include youtube.html id='tiyQEdlu9RQ' %}
     </div>
 
   </div>
