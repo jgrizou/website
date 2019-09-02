@@ -16,6 +16,7 @@ It is all online, so all you have to do is watch the videos, crack the code, and
 
 Easy right?
 
+
 ## Levels
 
 The challenge is split into levels of increasing complexity.
@@ -30,6 +31,8 @@ The challenge is split into levels of increasing complexity.
 - [Level 7](./level-7) - no buttons ?!
 
 *Levels have been designed to provide a smooth challenge for all. If you feel confident, start with level 1, then jump to level 4, and directly proceed to level 7. These levels represent conceptual milestones, the other levels are designed to prepare participants or demonstrate interesting use-cases.*
+
+<p style="font-size: 0.75rem;">PS: You are the master of your education. If you do the challenge, don't cheat your way through, struggling is part of the learning process.</p>
 
 ## A bit of history
 
