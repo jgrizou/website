@@ -6,7 +6,7 @@ layout: default
 
 Last update: August 2019
 
-*A web-app to experience the power of self-calibrating interfaces.*
+*A web-app to explain self-calibrating interfaces.*
 
 Quick access: [[Crack it]](#crack-it) [[Try it]](#try-it) [[Grasp it]](#grasp-it)
 
