@@ -21,7 +21,7 @@ This demo will work best full screen [at this link](https://openvault.jgrizou.co
 </div>
 
 
-<p style="font-size: 0.75rem;">If you want to use the interface directly above, note that the interface needs to listen to your keyboard inputs which requires the focus to be on it. On desktop, clicking anywhere on the interface will bring the focus to it and keyboard events will be able to be recorded. As a visual feedback the keyboard drawing at the bottom of the interface will blink when a key is pressed. On mobile, an additional button will show up, clicking on it will force the keyboard to show.</p>
+<p style="font-size: 0.75rem;">If you want to use the interface directly above, note that the interface needs to listen to your keyboard inputs which requires the focus to be on it. On desktop, clicking anywhere on the interface will bring the focus to it and keyboard events will be able to be recorded. As a visual feedback the keyboard drawing at the bottom of the interface will blink when a key is pressed. On mobile, an additional button will show up, clicking on it will both bring focus on the interface and force the keyboard to show.</p>
 
 ### How to use it
 
