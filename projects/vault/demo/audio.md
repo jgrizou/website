@@ -70,7 +70,7 @@ Three additional demonstration videos are provided below ([[1]](https://www.yout
 
 To go further, check the [audio explanatory interface](../../tuto/audio/).
 
-Next, I recommend experimenting with the [touch tutorial version](../../tuto/touch/). Try to fool it in predicting the wrong digit. Think of a color map that will be too hard for the machine to identify, and analyze why it fails.
+Next, I recommend trying the [keyboard version](../keyboard/), it is the same as the [3x3 version](../3x3/) but you can use any key on your keyboard instead. It is meant to show the users' actions do not have to be seen on the screen, making it harder for an outside observer to understand what code the user is typing.
 
 All available versions are linked below.
 

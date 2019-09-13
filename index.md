@@ -6,7 +6,7 @@ layout: default
 
 Research fellow [@ CRI Collaboratory](https://research.cri-paris.org) (Paris, France). I am designing a [web application to explain self-calibrating interfaces](projects/vault). Try it below or start the [challenge](projects/vault/challenge).
 
-{% include vault_demo_quick_access.html %}
+{% include vault_demo_quick_access_slim.html %}
 
 Previously, I led a team of 9 researchers in the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) on the [digitization of Chemistry](projects/chemobot) and cofounded [Pollen Robotics](https://www.pollen-robotics.com/) to commercialize an innovative [modular robotic technology](https://www.luos-robotics.com/en/).
 
