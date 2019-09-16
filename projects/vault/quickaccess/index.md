@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: iframed
 ---
 
 # Quick access to self-calibrating interfaces

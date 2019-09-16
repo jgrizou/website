@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    {% include head.html %}
+    <!-- see https://stackoverflow.com/questions/1037839/how-to-force-link-from-iframe-to-be-opened-in-the-parent-window -->
+    <base target="_parent">
+  </head>
+  <body>
+    <div class="container content" align="justify">
+      {{ content }}
+    </div>
+  </body>
+</html>
