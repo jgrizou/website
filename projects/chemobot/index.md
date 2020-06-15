@@ -82,8 +82,9 @@ Once the temperature dependance was discovered, six modes of self-propelled drop
 
 #### Resources
 
-1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review*
-[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
+1. **A curious formulation robot enables the discovery of a novel protocell behavior.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2020). *Science Advances.*
+[[pdf]](https://advances.sciencemag.org/content/6/5/eaay4237.full.pdf)
+[[doi]](https://doi.org/10.1126/sciadv.aay4237)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
@@ -157,9 +158,9 @@ Our results show that the evolution of nanomaterials is possible in a fully auto
 
 #### Resources
 
-1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2019). *Under Review*
-[[pdf]](https://chemrxiv.org/ndownloader/files/15456467)
-[[pre-print]](https://chemrxiv.org/articles/A_Nanomaterials_Discovery_Robot_for_the_Darwinian_Evolution_of_Shape_Programmable_Gold_Nanoparticles/8266547)
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2020). *Nature Communications.*
+[[pdf]](https://www.nature.com/articles/s41467-020-16501-4.pdf)
+[[doi]](https://doi.org/10.1038/s41467-020-16501-4)
 [[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
 
 
@@ -271,16 +272,17 @@ We have developed a collection of software and hardware tools that has been made
 
 ### Publications
 
-1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review*
-[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
+1. **A curious formulation robot enables the discovery of a novel protocell behavior.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2020). *Science Advances.*
+[[pdf]](https://advances.sciencemag.org/content/6/5/eaay4237.full.pdf)
+[[doi]](https://doi.org/10.1126/sciadv.aay4237)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
 [[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
 
-1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2019). *Under Review*
-[[pdf]](https://chemrxiv.org/ndownloader/files/15456467)
-[[pre-print]](https://chemrxiv.org/articles/A_Nanomaterials_Discovery_Robot_for_the_Darwinian_Evolution_of_Shape_Programmable_Gold_Nanoparticles/8266547)
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2020). *Nature Communications.*
+[[pdf]](https://www.nature.com/articles/s41467-020-16501-4.pdf)
+[[doi]](https://doi.org/10.1038/s41467-020-16501-4)
 [[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
 
 1. **Intuition-enabled Machine Learning beats the Competition when Joint Human-Robot Teams per-form Inorganic Chemical Experiments.** Duros, V., Grizou, J., Sharma, A., Mehr, S.H.M., Bubliauskas, A., Frei, P., Miras, H.N. and Cronin, L. (2019). *Journal of chemical information and modeling.*
@@ -316,13 +318,13 @@ We have developed a collection of software and hardware tools that has been made
 
 ## Personal Notes
 
-The above work - done between 2015 and 2018 - is the application of ideas from a small subfield of machine learning and robotics, called [developmental robotics](https://en.wikipedia.org/wiki/Developmental_robotics) (see my [PhD lab](https://flowers.inria.fr/)), to an emerging field at the intersection of robotics, AI, and chemistry. It may take some time for those ideas to become visible.
+The above work - done between 2015 and 2018 - is the application of ideas from a small subfield of machine learning and robotics, called [developmental robotics](https://en.wikipedia.org/wiki/Developmental_robotics) (see my [PhD lab](https://flowers.inria.fr/)), to an emerging field at the intersection of robotics, AI, and chemistry. 
 
-Nonetheless, I believe the projects we showcased provide a good window into future applications of AI and robotics in formulation sciences. More specifically in R&D departments to help find new formulations for consumer goods and medical treatments, under the ever evolving constraints from law enforcement (forbidden compounds, environment preservation), resource exhaustion, and budget optimization. The research presented above can significantly reduce the time and resources needed for the development of new products. Especially useful will be machines that can explore rather than optimize and collaborate with human rather than replace them.
+I believe the projects we showcased provide a good window into future applications of AI and robotics in formulation sciences. More specifically in R&D departments to help find new formulations for consumer goods and medical treatments, under the ever evolving constraints from law enforcement (forbidden compounds, environment preservation), resource exhaustion, and budget optimization. The research presented above can significantly reduce the time and resources needed for the development of new products. Especially useful will be machines that can explore rather than optimize and collaborate with human rather than replace them.
 
-I also believe that constraints from working on physical systems in the labs can be beneficial to the field of AI. When the only solution to querying data is to perform time consuming and costly experiments, it forces AI practitioners to redefine their working methodology and might change the focus of what matters when designing new algorithms.
+I also believe that constraints from working on physical systems in the labs can be beneficial to the field of AI. When the only solution to querying data is to perform time consuming and costly experiments. It forces AI practitioners to redefine their working methodology and might change the focus of what matters when designing new algorithms.
 
-I am eager to see this research applied to real life problems. Do not hesitate to get in touch to share ideas or discuss potential projects.
+I am eager to see this research applied to outside the lab. Do not hesitate to get in touch to share ideas or discuss potential projects.
 
 ## Footnotes
 

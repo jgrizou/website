@@ -8,9 +8,9 @@ Last update: August 2019
 
 *A web-app to explain self-calibrating interfaces.*
 
-Quick access: [[Crack it]](#crack-it) [[Try it]](#try-it) [[Grasp it]](#grasp-it)
+> UPDATE: I am working on an [interactive paper to explain self-calibrating interface](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing). The information below will be better understood in light of the draft paper linked above. Comments welcomed directly in the document.
 
-## Teaser
+## Introduction
 
 Below is a typical user interface. It is a code entering device. To enter a code, you look at the digit you want to type, if it is yellow you click on the yellow button. If it is grey, you click on the grey button. And the machine will find out the digit you have in mind by elimination.
 
@@ -94,12 +94,15 @@ It also allows you to challenge the interface in complex ways. For example, I so
 
 Because I have consistently failed to explain what a self-calibrating interface does to other researchers, friends or family in a few minutes. This web application is my attempt at explaining, showing, and getting people to feel what a self-calibrating interface does in one minute on my phone.
 
-I also have the intuition that this technology can be useful. But I cannot figure out how on my own, I am too involved in the research and find it hard to think outside the box. By implementing this technology into an easy-to-share demonstration, I am hoping to reach a variety of people. And maybe one day someone will figure out a place to apply it for good. If you are that person, feel free to [contact me]({{ site.baseurl }}/about/#standing-invitation).
+I also have the intuition that this technology can be useful. But I cannot figure out how on my own, I am too involved in the research and find it hard to think outside the box. By implementing this technology into an easy-to-share demonstration, I am hoping to reach a variety of people. And maybe one day someone will figure out a place to apply it for good. If you think of some application, feel free to [contact me]({{ site.baseurl }}/about/#standing-invitation).
 
 ## Resources
 
-A [2-page paper is online](https://arxiv.org/abs/1906.02485) and provides more background.
+1. **The Open Vault Challenge - Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, J. (2019). *International Joint Conferences on Artificial Intelligence.*
+[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
+[[doi]](https://doi.org/10.24963/ijcai.2019/942)
+[[project]]({{ site.baseurl }}/projects/vault)
 
 Detailed information, papers and code available on [this project page]({{ site.baseurl }}/projects/thesis).
 
-I have more to say than time to write, so feel free to [get in touch]({{ site.baseurl }}/about/#standing-invitation).
+Feel free to [get in touch]({{ site.baseurl }}/about/#standing-invitation).

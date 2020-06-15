@@ -4,16 +4,17 @@ layout: default
 
 # Now
 
-Research fellow [@ CRI Collaboratory](https://research.cri-paris.org) (Paris, France). I am designing a [web application to explain self-calibrating interfaces](projects/vault). Try it below or start the [challenge](projects/vault/challenge).
+Working on an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document). 
 
-{% include vault_demo_quick_access_slim.html %}
-
-Previously, I led a team of 9 researchers in the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) on the [digitization of Chemistry](projects/chemobot) and cofounded [Pollen Robotics](https://www.pollen-robotics.com/) to commercialize an innovative [modular robotic technology](https://www.luos-robotics.com/en/).
-
-More broadly, I enjoy making things work in the real world. I devise AI algorithms, build robots, and develop web services. I bloom when leading innovative teams.
-
+Developing [SpyLock](https://play.google.com/store/apps/details?id=com.grizai.android.spylock) to understand product development and marketing.
 
 # Highlights
+
+Worth a read:
+
+- [Interactive introduction to self-calibrating interface](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (work in progress, comments welcomed in the document)
+- [A curious formulation robot enables the discovery of a novel protocell behavior](https://doi.org/10.1126/sciadv.aay4237)
+
 
 My favorite projects:
 
@@ -22,12 +23,13 @@ My favorite projects:
 - [Self-calibrating interfaces: an intriguing AI paradigm](projects/thesis)
 - [Open source robotics](projects/open_robotics)
 
-Worth a read:
 
-- [Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant](https://arxiv.org/abs/1904.12635)
-- [The Open Vault Challenge -- Learning how to build calibration-free interactive systems by cracking the code of a vault](https://arxiv.org/abs/1906.02485)
-
-
-{% for post in site.posts offset:0 limit:1 %}
+<!-- {% for post in site.posts offset:0 limit:1 %}
 Latest blog post: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
-{% endfor %}
+{% endfor %} -->
+
+# Previously
+
+Research fellow at [CRI Collaboratory](https://research.cri-paris.org). Led a team of 9 researchers in the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) on the [digitization of Chemistry](projects/chemobot) and co-founded [Pollen Robotics](https://www.pollen-robotics.com/) to commercialize an innovative [modular robotic technology](https://www.luos.io/).
+
+More broadly, I enjoy making things work in the real world. I devise AI algorithms, build robots, and develop web services. I bloom when leading innovative teams.

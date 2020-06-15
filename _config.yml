@@ -17,9 +17,8 @@ navbar-links:
   Home:              '/'
   Projects:          '/projects/'
   Publications:      '/publications/'
-  # Thoughts:          '/thoughts/'
-  # Quotes:            '/quotes/'
-  Blog:              '/blog/'
+  Teaching:          '/teaching/'
+  Art:               '/art/'
   CV / About:        '/about/'
 
 

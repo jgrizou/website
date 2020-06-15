@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Teaching machine learning with pancakes
-summary: For a workshop, I introduced the concept of classification without math or computer. I designed a problem involving pancakes of different shapes, colors, and flavors. In this post, I describe the setup and narrative I used.
+layout: default
 ---
+
+# Teaching machine learning with pancakes
+
+> For a workshop, I introduced the concept of classification without math or computer. I designed a problem involving pancakes of different shapes, colors, and flavors. In this post, I describe the setup and narrative I used.
 
 <div class="message">
   How do you explain the basic concepts behind classification to complete beginners, without using a computer or any math?
@@ -10,7 +12,7 @@ summary: For a workshop, I introduced the concept of classification without math
 
 My answer was to put participants in the shoes of a data scientist in front of a new problem. This problem involved pancakes.
 
-{% include image.html src='/blog/assets/pancakes/samples.jpg' col='col-lg-8' sub='Samples of pancakes shown to the participants.'%}
+{% include image.html src='img/samples.jpg' col='col-lg-8' sub='Samples of pancakes shown to the participants.'%}
 
 ## The problem
 
@@ -35,21 +37,21 @@ First I prepared pancakes with two flavors (orange and vanilla) and three colors
 <div class="container">
   <div class="row align-items-center justify-content-center">
     <div class="col-md-4">
-      {% include image.html src='/blog/assets/pancakes/cooked.jpg' sub='Just cooked off.'%}  
+      {% include image.html src='img/cooked.jpg' sub='Just cooked off.'%}  
     </div>
     <div class="col-md-8">
-      {% include image.html src='/blog/assets/pancakes/bagged.jpg' sub='Pancakes bagged per flavor.'%}
+      {% include image.html src='img/bagged.jpg' sub='Pancakes bagged per flavor.'%}
     </div>
   </div>
 </div>
 
 I also cut the pancakes in rectangular form of different length and width depending on their flavor and according to the following pattern.
 
-{% include image.html src='/blog/assets/pancakes/shape_to_flavor_map.jpg' col='col-lg-10' sub='The hidden relationship between pancakes length and width and their flavor.'%}
+{% include image.html src='img/shape_to_flavor_map.jpg' col='col-lg-10' sub='The hidden relationship between pancakes length and width and their flavor.'%}
 
 The orange pancakes were cut in rectangles whose length and width stayed within the orange zone. For example, both a 3x4cm and a 5x2cm pancake would be of orange flavor. Respectively vanilla pancakes were cut to shapes within the green are, for example a 2x3cm and a 5x3.5cm would be vanilla flavor.
 
-{% include image.html src='/blog/assets/pancakes/samples.jpg' col='col-lg-10' sub='Samples of pancakes shown to the participants.'%}
+{% include image.html src='img/samples.jpg' col='col-lg-10' sub='Samples of pancakes shown to the participants.'%}
 
 Now you understand that the shape of the pancakes is the key to predicting their flavor accurately. This mapping is not easy to infer by visually inspecting the pancakes, you really need to plot them to see the relationship.
 
@@ -59,17 +61,17 @@ I left the participant think about the problem, manipulate pancakes and make the
 
 They found out the color to flavor relationship (blue -> vanilla & green -> orange) but they got stuck with the red ones that were alternatively vanilla or orange flavor. I proposed to plot the properties we measured on the whiteboard.
 
-{% include image.html src='/blog/assets/pancakes/workshop.jpg' col='col-lg-10' sub='Participant working out the shape to flavor relationship.'%}
+{% include image.html src='img/workshop.jpg' col='col-lg-10' sub='Participant working out the shape to flavor relationship.'%}
 
 The plot looked like the figure below.
 
-{% include image.html src='/blog/assets/pancakes/samples_scatter.jpg' col='col-lg-10' sub='Scatter plot of pancakes width and length with flavors as labels.'%}
+{% include image.html src='img/samples_scatter.jpg' col='col-lg-10' sub='Scatter plot of pancakes width and length with flavors as labels.'%}
 
 They immediately understood that some areas were always containing vanilla pancakes and other orange pancakes. The question was now: where to draw the line between vanilla and orange?
 
 I told them to take a few minutes to think about it and then use pens of different color to draw that line. Each participant ended up drawing slightly different lines. I added a blue ellipse to show them another way to think about the classification boundary. And one participant even came up with a conditional equation much alike a decision tree classifier.
 
-{% include image.html src='/blog/assets/pancakes/classifiers.jpg' col='col-lg-10' sub='Classification boundaries as drawn by different participants.'%}
+{% include image.html src='img/classifiers.jpg' col='col-lg-10' sub='Classification boundaries as drawn by different participants.'%}
 
 And that is it, they reinvented for themselves the process behind classification.
 
@@ -100,7 +102,7 @@ This process is called [active learning](https://en.wikipedia.org/wiki/Active_le
 
 Finally, I wanted to challenge the power of their model by asking them to classify the pancakes shown below.
 
-{% include image.html src='/blog/assets/pancakes/bias.jpg' col='col-lg-10' sub='Pancakes not conforming to training set. What happens if you try to predict their flavor?'%}
+{% include image.html src='img/bias.jpg' col='col-lg-10' sub='Pancakes not conforming to training set. What happens if you try to predict their flavor?'%}
 
 As we can see these pancakes do not conform with the pancakes they used to build the model. Trying to extract features on the triangle, circle, and flag shaped pancakes is possible but is likely to lead to wrong results. As for the non-colored pancakes, they have the same rectangular shape but they are very salty pancakes. Salty being neither vanilla nor orange, the model will not be able to predict that either.
 
@@ -108,10 +110,10 @@ Unfortunately, when the full pipeline is automated, it is very difficult to dete
 
 ## Resources
 
-Below are the [slides](/blog/assets/pancakes/slides.pdf) I used during the workshop. All images have been found on the internet, thanks for those who shared them. For bias and limitations of mathematical models, I invite you to read [*Weapons of Math Destruction* by *Cathy O'Neil*](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
+Below are the [slides](img/slides.pdf) I used during the workshop. All images have been found on the internet, thanks for those who shared them. For bias and limitations of mathematical models, I invite you to read [*Weapons of Math Destruction* by *Cathy O'Neil*](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 
-{% include embed.html src='/blog/assets/pancakes/slides.pdf'%}
+{% include embed.html src='pdf/slides.pdf'%}
 
 ---
 

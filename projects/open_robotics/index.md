@@ -247,7 +247,7 @@ The team took on another challenge to design a very cheap (<2$ in parts) educati
   </div>
 </div>
 
-I voluntary departed from Pollen Robotics in 2018 following a pivot. This pivot lead to a split in the activities and the creation of a second start-up [Luos Robotics](https://www.luos-robotics.com). At the time of this writing, [Pollen Robotics](https://www.pollen-robotics.com/) is a robotic design studio that starts from an idea to develop a functioning product. [Luos Robotics](https://www.luos-robotics.com) is a start-up aiming to commercialize the Robus modular technology. We were awarded a [European SME Instrument h2020 grant](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/sme-instrument) for this project.
+I voluntary departed from Pollen Robotics in 2018 following a pivot. This pivot lead to a split in the activities and the creation of a second start-up [Luos Robotics](https://www.luos.io/). At the time of this writing, [Pollen Robotics](https://www.pollen-robotics.com/) is a robotic design studio that starts from an idea to develop a functioning product. [Luos Robotics](https://www.luos.io/) is a start-up aiming to commercialize the Robus modular technology. We were awarded a [European SME Instrument h2020 grant](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/sme-instrument) for this project.
 
 <div class="container">
   <div class="row align-items-center justify-content-center">

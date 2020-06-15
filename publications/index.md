@@ -10,18 +10,25 @@ layout: default
 
 ## Selected
 
-1. **The Open Vault Challenge--Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, Jonathan (2019). *International Joint Conferences on Artificial Intelligence.*
-[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
-[[project]]({{ site.baseurl }}/projects/thesis)
-
-1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review.*
-[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
+1. **A curious formulation robot enables the discovery of a novel protocell behavior.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2020). *Science Advances.*
+[[pdf]](https://advances.sciencemag.org/content/6/5/eaay4237.full.pdf)
+[[doi]](https://doi.org/10.1126/sciadv.aay4237)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
 [[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
 
-1. **Artificial intelligence exploration of unstable protocells leads to predictable properties and discovery of collective behavior.** Points, L. J., Taylor, J. W., Grizou, J., Donkers, K., & Cronin, L. (2018). *PNAS - Proceedings of the National Academy of Sciences, 201711089.*
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2020). *Nature Communications.*
+[[pdf]](https://www.nature.com/articles/s41467-020-16501-4.pdf)
+[[doi]](https://doi.org/10.1038/s41467-020-16501-4)
+[[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
+
+1. **The Open Vault Challenge - Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, J. (2019). *International Joint Conferences on Artificial Intelligence.*
+[[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
+[[doi]](https://doi.org/10.24963/ijcai.2019/942)
+[[project]]({{ site.baseurl }}/projects/vault)
+
+1. **Artificial intelligence exploration of unstable protocells leads to predictable properties and discovery of collective behavior.** Points, L. J., Taylor, J. W., Grizou, J., Donkers, K., & Cronin, L. (2018). *PNAS - Proceedings of the National Academy of Sciences.*
 [[pdf]](https://www.pnas.org/content/pnas/early/2018/01/09/1711089115.full.pdf)
 [[journal]](https://www.pnas.org/content/115/5/885.short)
 [[project]]({{ site.baseurl }}/projects/chemobot#surfbot)
@@ -53,25 +60,26 @@ layout: default
 [[slides]](https://github.com/jgrizou/publications/tree/master/paper/conference/2013_icdl)
 [[project]]({{ site.baseurl }}/projects/thesis)
 
-## Under Review
 
-1. **Exploration of Self-Propelling Droplets Using a Curiosity Driven Robotic Assistant.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2019). *Under review*
-[[pdf]](https://arxiv.org/pdf/1904.12635.pdf)
+## All per year
+
+1. **A curious formulation robot enables the discovery of a novel protocell behavior.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2020). *Science Advances.*
+[[pdf]](https://advances.sciencemag.org/content/6/5/eaay4237.full.pdf)
+[[doi]](https://doi.org/10.1126/sciadv.aay4237)
 [[robot design]](https://github.com/croningp/dropfactory)
 [[experiment code]](https://github.com/croningp/dropfactory_exploration)
 [[analysis code]](https://github.com/croningp/dropfactory_analysis)
 [[project]]({{ site.baseurl }}/projects/chemobot#dropfactory)
 
-1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2019). *Under Review*
-[[pdf]](https://chemrxiv.org/ndownloader/files/15456467)
-[[pre-print]](https://chemrxiv.org/articles/A_Nanomaterials_Discovery_Robot_for_the_Darwinian_Evolution_of_Shape_Programmable_Gold_Nanoparticles/8266547)
+1. **A Nanomaterials Discovery Robot for the Darwinian Evolution of Shape Programmable Gold Nanoparticles.** Keenan, G., Salley, D., Martín, S., Grizou, J., Sharma, A. and Cronin, L. (2020). *Nature Communications.*
+[[pdf]](https://www.nature.com/articles/s41467-020-16501-4.pdf)
+[[doi]](https://doi.org/10.1038/s41467-020-16501-4)
 [[project]]({{ site.baseurl }}/projects/chemobot#nanobot)
 
-## All per year
-
-1. **The Open Vault Challenge--Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, Jonathan (2019). *International Joint Conferences on Artificial Intelligence.*
+1. **The Open Vault Challenge - Learning how to build calibration-free interactive systems by cracking the code of a vault.** Grizou, J. (2019). *International Joint Conferences on Artificial Intelligence.*
 [[pdf]](https://arxiv.org/pdf/1906.02485.pdf)
-[[project]]({{ site.baseurl }}/projects/thesis)
+[[doi]](https://doi.org/10.24963/ijcai.2019/942)
+[[project]]({{ site.baseurl }}/projects/vault)
 
 1. **Intuition-enabled Machine Learning beats the Competition when Joint Human-Robot Teams per-form Inorganic Chemical Experiments.** Duros, V., Grizou, J., Sharma, A., Mehr, S.H.M., Bubliauskas, A., Frei, P., Miras, H.N. and Cronin, L. (2019). *Journal of chemical information and modeling.*
 [[pdf]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00304)
