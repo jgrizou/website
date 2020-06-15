@@ -1,6 +1,6 @@
 ## Website
 
-All the sources for my website: [jgrizou.com](jgrizou.com)
+All the sources for my website: [jgrizou.com](https://jgrizou.com/)
 
 ### License
 
