@@ -6,7 +6,7 @@ layout: default
 
 Working on an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document). 
 
-Developing [SpyLock](https://play.google.com/store/apps/details?id=com.grizai.android.spylock) to understand product development and marketing.
+Developing the [SpyLock](https://play.google.com/store/apps/details?id=com.grizai.android.spylock) Android App to test and disseminate a new spyproof code-pad.
 
 # Highlights
 
