@@ -4,9 +4,9 @@ layout: default
 
 # Now
 
-Part of the London 15th cohort at [Entrepreneur First](www.joinef.com).
+Part of the London 15th cohort at [Entrepreneur First](https://www.joinef.com/).
 
-Working on an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document). 
+Working on an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document).
 
 # Highlights
 
