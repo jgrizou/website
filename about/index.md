@@ -2,16 +2,11 @@
 layout: default
 ---
 
-## Curriculum vitae
-
-<a href="https://docs.google.com/document/d/12RrEx_l2knomSK0a50onPF02UAhvu9w5sGqhce2viGM/edit?usp=sharing" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="far fa-id-card"></span> One Page CV</a> <a href="https://docs.google.com/document/d/1VhNy0A1kSSAnXpog-X37mOu0l0jSvgm-ycDeq3cDmSg/edit?usp=sharing" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="far fa-file-alt"></span> Full CV</a>
-<a href="https://www.linkedin.com/in/jonathangrizou" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="fab fa-linkedin"></span> Linkedin</a>
-
-## Standing invitation
+## Contact
 
 <!-- inspired from https://www.kalzumeus.com/standing-invitation/ -->
 
-If you want to talk about any topic covered on this website, I invite you to contact me. Sharing is caring, I want to talk to you, you won't annoy me.
+If you want to discuss any topic covered on this website, I invite you to contact me. Sharing is caring, I want to talk to you, you won't annoy me.
 
 You can reach me by email at <a href="mailto:jonathan.grizou@gmail.com">jonathan.grizou@gmail.com</a> or any link below.
 
@@ -19,6 +14,10 @@ You can reach me by email at <a href="mailto:jonathan.grizou@gmail.com">jonathan
   {% include social-link.html %}
 </div>
 
+## CV
+
+<a href="https://docs.google.com/document/d/12RrEx_l2knomSK0a50onPF02UAhvu9w5sGqhce2viGM/edit?usp=sharing" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="far fa-id-card"></span> One Page CV</a> <a href="https://docs.google.com/document/d/1VhNy0A1kSSAnXpog-X37mOu0l0jSvgm-ycDeq3cDmSg/edit?usp=sharing" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="far fa-file-alt"></span> Full CV</a>
+<a href="https://www.linkedin.com/in/jonathangrizou" class="btn btn-light btn-sm active" role="button" aria-pressed="true"><span class="fab fa-linkedin"></span> Linkedin</a>
 
 ## Thanks
 
