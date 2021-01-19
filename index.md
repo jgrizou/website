@@ -2,17 +2,19 @@
 layout: default
 ---
 
-# Now
-
 I am a Lecturer / Associate Professor of Computer Science at the University of Glasgow.
 
-My research focus on developing tools to assist people in their creative process. We study what is creativity, how it can be measured and how it can be implemented algorithmically (ML/AI). Most importantly to me, we ask how the lessons learned from the above can inform the development of tools that effectively enhance the creativity of their users.
+My research focus on developing tools to assist people in their creative process. We study what creativity is, how it can be measured and how it can be implemented algorithmically (ML/AI). Most importantly to me, we ask how the lessons learned from the above can inform the development of tools that effectively enhance the creativity of their users.
 
-Currently writing publicly an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document).
+# Now
+
+I am focusing on writing research proposals at the moment.
+
+Also writing publicly an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document)
 
 # Standing Invitation
 
-I had the luck to acquire a large range of engineering skills and to (co-)found 2 start-ups.  I like to share my learning with curious minded people, as well as to advice companies. Feel free to [contact me](about) for any question.
+I had the luck to acquire a large range of engineering skills and to (co-)found 2 start-ups.  I like to share my learnings with curious minded people, as well as to advise companies. Feel free to [contact me](about) for any question.
 
 # Highlights
 
