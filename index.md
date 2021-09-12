@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Lecturer / Associate Professor of Computer Science at the University of Glasgow.
+I am a Lecturer / Assistant Professor of Computer Science at the University of Glasgow.
 
 My research focus on developing tools to assist people in their creative process. We study what creativity is, how it can be measured and how it can be implemented algorithmically (ML/AI). Most importantly to me, we ask how the lessons learned from the above can inform the development of tools that effectively enhance the creativity of their users.
 
