@@ -5,9 +5,25 @@ layout: default
 ## Main projects
 
 1. [An interface that reads your mind](vault) (2019 - ongoing)
-1. [Robotics and AI in a Chemistry lab](chemobot) (2015 - ongoing)
+1. [Robotics and AI in a Chemistry lab](chemobot) (2015 - 2020)
 1. [Unlabeled interactive learning](thesis) (2011 - 2015 \| 2019 - ongoing)
 1. [Open source robotics](open_robotics) (2012 - 2018)
+
+<!-- ## Supervised projects
+
+1. https://github.com/SmartControllerJS
+1. https://smartcontrollerjs.github.io/SmartController/
+1. https://www.npmjs.com/package/smartcontroller
+1. https://github.com/SmartControllerJS/Coin-Chaser
+1. https://smartcontrollerjs.github.io/Coin-Chaser/
+1. https://github.com/SmartControllerJS/GottaGraduate
+1. https://fraser-dempster.github.io/l4-project-interactive-game/
+1. https://github.com/Kirstin813/L4-Individual-Project
+1. https://cmurray95.github.io/espruino-remote-uploader/ 
+1. https://github.com/cmurray95/espruino-remote-uploader
+1. https://www.npmjs.com/package/remote-uploader
+-->
+
 
 ## Smaller projects
 
@@ -21,6 +37,7 @@ layout: default
 {% include anchor.html id="robots" %}
 ## Stuff I built
 
+1. [Smartphone powered self-driving robot](https://github.com/jgrizou/phonebot) (2021)
 1. [p5live - Live refresh of p5.js sketches](https://github.com/jgrizou/p5live) (2021)
 1. [SpyLock - Android App](https://play.google.com/store/apps/details?id=com.grizai.android.spylock) (2020)
 1. [Web application - Self-calibrating code entering interface](vault) (2019 - ongoing)

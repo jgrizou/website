@@ -63,6 +63,12 @@ layout: default
 
 ## All per year
 
+1. **IFTT-PIN: Demonstrating the Self-Calibration Paradigm on a PIN-Entry Task.** Grizou, J. *arXiv.*
+[[pdf]](https://arxiv.org/pdf/2204.02341.pdf)
+[[doi]](https://doi.org/10.48550/arXiv.2204.02341)
+[[demos]](https://jgrizou.github.io/IFTT-PIN/)
+[[video]](https://youtu.be/5I1ibPJdLHM)
+
 1. **A curious formulation robot enables the discovery of a novel protocell behavior.** Grizou, J., Points, L. J., Sharma, A. & Cronin, L. (2020). *Science Advances.*
 [[pdf]](https://advances.sciencemag.org/content/6/5/eaay4237.full.pdf)
 [[doi]](https://doi.org/10.1126/sciadv.aay4237)

@@ -4,17 +4,16 @@ layout: default
 
 I am a Lecturer / Assistant Professor of Computer Science at the University of Glasgow.
 
-My research focus on developing tools to assist people in their creative process. We study what creativity is, how it can be measured and how it can be implemented algorithmically (ML/AI). Most importantly to me, we ask how the lessons learned from the above can inform the development of tools that effectively enhance the creativity of their users.
+My research focuses on developing tools to assist people in their creative process. We study what creativity is, how it can be measured and how it can be implemented algorithmically (ML/AI). Most importantly to me, we ask how the lessons learned from the above can inform the development of tools that effectively enhance the creativity of their users.
 
-I have a keen interested in STEAM education, the history of technology and in collaborating with artists.
-
-Feel free to [contact me](/about/), I like to learn new things.
+I have a keen interested in STEAM education, the history of technology, entrepreneurship and in collaborating with artists.
 
 # Now
 
-I am focusing on writing research proposals at the moment.
+I am writing publicly an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document)
 
-Also writing publicly an [interactive paper to explain self-calibrating interfaces](https://docs.google.com/document/d/1ExWC2IDRwSTDM3E_KOHTg1AtcucBwccSggV3tad3ciA/edit?usp=sharing) (comments welcomed directly in the document)
+I am exploring smartphone based interactive devices, see student projects [1](https://smartcontrollerjs.github.io/SmartController/), [2](https://smartcontrollerjs.github.io/Coin-Chaser/), [3](https://fraser-dempster.github.io/l4-project-interactive-game/), [4](https://github.com/Kirstin813/L4-Individual-Project), [5](https://cmurray95.github.io/espruino-remote-uploader/)
+
 
 # Highlights
 
@@ -36,7 +35,7 @@ My favorite projects:
 
 Part of the London 15th cohort at [Entrepreneur First](https://www.joinef.com/). Research fellow at [CRI Collaboratory](https://research.cri-paris.org). Led a team of 9 researchers in the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) on the [digitization of Chemistry](projects/chemobot). Co-founded [Pollen Robotics](https://www.pollen-robotics.com/) to commercialize an innovative [modular robotic technology](https://www.luos.io/). Exhibited [artist](art).
 
-More broadly, I enjoy building things, including ML algorithms, robots, and web services. I bloom within interdisciplinary innovative teams.
+More broadly, I enjoy building things and bloom within interdisciplinary innovative teams.
 
 See my [project page](projects) for skills, [Linkedin](https://www.linkedin.com/in/jonathangrizou) for career record, and [Google Scholar](https://scholar.google.fr/citations?hl=en&user=Fej-hGQAAAAJ&view_op=list_works&sortby=pubdate) for academic record.
 
