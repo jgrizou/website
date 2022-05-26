@@ -63,6 +63,12 @@ layout: default
 
 ## All per year
 
+1. **IFTT-PIN: A PIN-Entry Method Leveraging the Self-Calibration Paradigm.** Grizou, J. *arXiv.*
+[[pdf]](https://arxiv.org/pdf/2205.09534.pdf)
+[[doi]](https://doi.org/10.48550/arXiv.2205.09534)
+[[demos]](https://jgrizou.github.io/IFTT-PIN/)
+[[video]](https://youtu.be/5I1ibPJdLHM)
+
 1. **IFTT-PIN: Demonstrating the Self-Calibration Paradigm on a PIN-Entry Task.** Grizou, J. *arXiv.*
 [[pdf]](https://arxiv.org/pdf/2204.02341.pdf)
 [[doi]](https://doi.org/10.48550/arXiv.2204.02341)
