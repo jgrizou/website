@@ -8,7 +8,7 @@ author:
 title:               Jonathan Grizou
 tagline:             We are our choices
 description:         'Research and personal opinions'
-url:                 http://jgrizou.com/
+url:                 https://jgrizou.github.io/website/
 baseurl:             ''
 paginate:            5
 paginate_path:       '/blog/:num/'
