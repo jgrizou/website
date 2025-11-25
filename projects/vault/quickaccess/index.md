@@ -4,7 +4,7 @@ layout: iframed
 
 # Quick access to self-calibrating interfaces
 
-If you don't know what this is, [click here.](https://jgrizou.com/projects/vault/)
+If you don't know what this is, [click here.](https://arxiv.org/pdf/2212.05766)
 
 ## Demos
 
