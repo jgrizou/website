@@ -17,78 +17,78 @@ Start with the simpler button-based demos to understand the core concept, then e
 <div class="container">
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/demo_1x2.json">
         {% assign gif_1x2_url = site.baseurl | append: '/projects/vault/img/demo_1x2_2.gif' %}
         {% include image.html src=gif_1x2_url sub='2 buttons' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/demo_1x2.json">Buttons - Pre-calibrated</a></h4>
       <p>This is a pre-calibrated version of our interface to learn how the interaction works before experiencing self-calibration. You will use two labeled buttons to enter a 4-digit PIN. Use this demo first to understand the interface before trying self-calibrating versions.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/demo_3x3.json">
         {% assign gif_3x3_url = site.baseurl | append: '/projects/vault/img/demo_3x3_fullpad_1.gif' %}
         {% include image.html src=gif_3x3_url sub='9 buttons' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/demo_3x3.json">Buttons - Self-calibrating</a></h4>
       <p>This is the self-calibrating version with unlabeled buttons arranged in a 3×3 grid. You use the buttons to enter your 4-digit PIN without the system knowing which button means what (i.e. the color you assigned to them in your mind). The system figures out your personal button-to-color mapping, as well as your PIN, from your pattern of interaction.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/demo_touch.json">
         {% assign gif_touch_url = site.baseurl | append: '/projects/vault/img/demo_touch_1.gif' %}
         {% include image.html src=gif_touch_url sub='Touch' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/demo_touch.json">Touch - Self-calibrating</a></h4>
       <p>This demo moves beyond discrete buttons to continuous 2D input. You tap anywhere on the surface to enter your PIN digits. The system learns your personal point-on-the-pad-to-color mapping without any constraints or predefined zones.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/demo_draw.json">
         {% assign gif_draw_url = site.baseurl | append: '/projects/vault/img/demo_draw_1.gif' %}
         {% include image.html src=gif_draw_url sub='Draw' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/demo_draw.json">Draw - Self-calibrating</a></h4>
       <p>This demo uses hand-drawn sketches as input. You draw shapes or symbols with your finger or mouse to represent each color. Think hand-drawn symbols instead of buttons. The system learns your personal sketch-to-color mapping from your drawing patterns.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/demo_audio.json">
         {% assign gif_audio_url = site.baseurl | append: '/projects/vault/img/demo_audio_1.gif' %}
         {% include image.html src=gif_audio_url sub='Speak' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/demo_audio.json">Speak - Self-calibrating</a></h4>
       <p>This demo uses audio input from your microphone. You say words or make sounds to represent each color. The system learns your personal sound-to-color mapping without needing to understand your language, in fact, any consistent sounds will work.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/demo_keyboard.json">
         {% assign gif_keyboard_url = site.baseurl | append: '/projects/vault/img/demo_keyboard_1.gif' %}
         {% include image.html src=gif_keyboard_url sub='Keyboard' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/demo_keyboard.json">Keyboard - Self-calibrating</a></h4>
       <p>This demo uses keyboard input for PIN entry. You type any keys on your keyboard to represent each color. The system discovers which keys you are associating with each color without any predefined mappings. In other words, you create your own custom keyboard layout on the fly.</p>
     </div>
@@ -102,65 +102,65 @@ Start with the simpler button-based demos to understand the core concept, then e
 <div class="container">
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/tuto_1x2.json">
         {% assign gif_1x2_url = site.baseurl | append: '/projects/vault/img/tuto_1x2_1.gif' %}
         {% include image.html src=gif_1x2_url sub='2 buttons' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/tuto_1x2.json">Buttons - Pre-Calibrated - Guided tutorial</a></h4>
       <p>This guided tutorial walks you through the interface step-by-step with two pre-calibrated buttons. You will see how the system progressively eliminates possibilities and converges on your intended digit. This is perfect for understanding the tutorial interface and what is happenign on the right panel before moving to the self-calibrating tutorials.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/tuto_3x3.json">
         {% assign gif_3x3_url = site.baseurl | append: '/projects/vault/img/tuto_3x3_1.gif' %}
         {% include image.html src=gif_3x3_url sub='9 buttons' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/tuto_3x3.json">Buttons - Self-Calibrating - Guided tutorial</a></h4>
       <p>This tutorial extends the tutorial to self-calibration with a 3×3 grid of unlabeled buttons. You will visualize how the algorithm handles the elimination process as the system learns your button-to-color mapping, as well as your PIN, from your pattern of interaction.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/tuto_touch.json">
         {% assign gif_touch_url = site.baseurl | append: '/projects/vault/img/tuto_touch_1.gif' %}
         {% include image.html src=gif_touch_url sub='Touch' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/tuto_touch.json">Touch - Self-Calibrating - Guided tutorial</a></h4>
       <p>This tutorial introduces continuous 2D input with step-by-step guidance. You will see how the system handles spatial coordinates instead of discrete buttons, learning which areas of the pad you are using for each color through ML-based consistency metrics.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/tuto_draw.json">
         {% assign gif_draw_url = site.baseurl | append: '/projects/vault/img/tuto_draw_1.gif' %}
         {% include image.html src=gif_draw_url sub='Draw' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/tuto_draw.json">Draw - Self-Calibrating - Guided tutorial</a></h4>
       <p>This tutorial shows how self-calibration works with high-dimensional sketch data. You will draw symbols to represent each color and see how the system clusters them to identify which sketches represent which color — all without knowing what you are drawing.</p>
     </div>
   </div>
 
   <div class="row align-items-center mb-4">
-    <div class="col-md-4">
+    <div class="col-5">
       <a href="https://openvault.jgrizou.com/#/ui/tuto_audio.json">
         {% assign gif_audio_url = site.baseurl | append: '/projects/vault/img/tuto_audio_1.gif' %}
         {% include image.html src=gif_audio_url sub='Speak' %}
       </a>
     </div>
-    <div class="col-md-8">
+    <div class="col-7">
       <h4><a href="https://openvault.jgrizou.com/#/ui/tuto_audio.json">Speak - Self-Calibrating - Guided tutorial</a></h4>
       <p>This tutorial demonstrates self-calibration with audio signals. You will say words or make sounds to represent each color and visualize how the system clusters sounds to discover your sound-to-color mapping. In fact, any consistent sounds will work—without any speech recognition or language understanding.</p>
     </div>
